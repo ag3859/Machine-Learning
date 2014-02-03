@@ -1,0 +1,71 @@
+--[[
+Main file
+By Aditya Garg (aditya.garg [at] nyu.edu) @ New York University
+Version 0.1, 10/24/2012
+
+This file is implemented for the assigments of CSCI-GA.2565-001 Machine
+Learning at New York University, taught by professor Yann LeCun
+(yann [at] cs.nyu.edu)
+
+--]]
+
+require 'xlua'
+
+xlua.log('results.txt')
+
+-- Load required libraries and files
+dofile("isolet.lua")
+dofile("model.lua")
+--dofile("trainer.lua")
+dofile("whitening.lua")
+
+function main()
+--6238 1559
+	local strain = 62+1-1
+	local stest = 1+1-1
+
+	local data_train, data_test = isolet:getIsoletDatasets(strain, stest)
+
+	local p = {1,2,4,8,16,32,64,128,256,512,617}
+	local hu = {10,20,40,80}
+--	print("PCA K value?")
+	
+	for i=1,11 do
+		local k = p[i]
+	
+		print("Taking K value as "..k)
+--		io.read()
+		print("Sending data for Whitening")
+	
+		data_train_w, data_test_w = whitenDatasets(data_train, data_test, k)
+	
+		print("Normalizing Whitened Data")
+	
+		data_train_wn, data_test_wn = isolet:wnormalize(data_train_w, data_test_w, k)
+	
+		modLogistic(k, data_train_wn, data_test_wn)
+
+		print("\n Logistic Done, Press Enter")
+--		io.read()
+
+		for j=1,4 do
+			local y = hu[j]
+			print("\n Taking Hidden Units Value as "..y)
+--			io.read()
+
+			modtwolayer(k, y, data_train_wn, data_test_wn)
+
+			print("\n 2 Layer network done, press enter")
+--			io.read()
+
+			modRBF(k, y, data_train_wn, data_test_wn)
+
+			print("\n RBF network done. Press enter")
+--			io.read()
+		end
+	end
+
+end
+
+
+main()

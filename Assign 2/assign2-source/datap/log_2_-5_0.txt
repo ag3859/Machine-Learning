@@ -1,0 +1,46 @@
+
+For D=2
+
+
+	 C=0.03125
+
+
+	 Avg Cross Valid Error 0.096
+
+
+	 Avg Training Error    0.020222222222222
+	 C=0.0625
+
+
+	 Avg Cross Valid Error 0.0995
+
+
+	 Avg Training Error    0.016333333333333
+	 C=0.125
+
+
+	 Avg Cross Valid Error 0.103
+
+
+	 Avg Training Error    0.012722222222222
+	 C=0.25
+
+
+	 Avg Cross Valid Error 0.106
+
+
+	 Avg Training Error    0.010277777777778
+	 C=0.5
+
+
+	 Avg Cross Valid Error 0.1135
+
+
+	 Avg Training Error    0.0096111111111111
+	 C=1
+
+
+	 Avg Cross Valid Error 0.1135
+
+
+	 Avg Training Error    0.0093888888888889

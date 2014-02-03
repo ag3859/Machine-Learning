@@ -1,0 +1,4190 @@
+Reading IsoLet
+splitting train and test data
+Normalize data
+Append Bias
+Taking K value as 1
+Sending data for Whitening
+Calculating Co-Variance X^T X
+Running SVD
+Multiplying U and X
+Normalizing Whitened Data
+# StochasticGradient: training
+# current error = 3.0753782166969
+# current error = 2.7551831393225
+# current error = 2.6656306010355
+# current error = 2.6100698365708
+# current error = 2.5698370231974
+# current error = 2.5385283233039
+# current error = 2.5130917769735
+# current error = 2.4918200762445
+# current error = 2.4736545966843
+# current error = 2.4578912515399
+# current error = 2.4440374851992
+# current error = 2.4317351782278
+# current error = 2.4207158288586
+# current error = 2.4107731054992
+# current error = 2.4017451383886
+# current error = 2.3935026455577
+# current error = 2.385940918143
+# current error = 2.3789740131951
+# current error = 2.3725304828547
+# current error = 2.3665504662661
+# current error = 2.360983309037
+# current error = 2.3557858038186
+# current error = 2.3509207865946
+# current error = 2.3463561428409
+# current error = 2.3420639198224
+# current error = 2.338019690986
+# current error = 2.3342019358185
+# current error = 2.3305916720333
+# current error = 2.3271720139698
+# current error = 2.3239280029082
+# current error = 2.3208461549333
+# current error = 2.3179144632806
+# current error = 2.3151220783639
+# current error = 2.3124592184176
+# current error = 2.3099170078369
+# current error = 2.3074873984485
+# current error = 2.3051630600251
+# current error = 2.30293731236
+# current error = 2.3008040395267
+# current error = 2.2987576223199
+# current error = 2.296792902503
+# current error = 2.2949051375404
+# current error = 2.2930899593587
+# current error = 2.2913433329542
+# current error = 2.2896615038115
+# current error = 2.2880410161857
+# current error = 2.2864786200318
+# current error = 2.2849713737404
+# current error = 2.2835164719508
+# current error = 2.2821113229133
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.8
+
+ Logistic Done, Press Enter
+
+
+
+ Taking Hidden Units Value as 10
+# StochasticGradient: training
+# current error = 2.9281522694076
+# current error = 2.6205062699837
+# current error = 2.5238698728593
+# current error = 2.4756161131164
+# current error = 2.4471838547953
+# current error = 2.4286701172929
+# current error = 2.4155299493182
+# current error = 2.4053247555024
+# current error = 2.3966322557633
+# current error = 2.3886069109893
+# current error = 2.3808644020422
+# current error = 2.3734848901483
+# current error = 2.3669076200846
+# current error = 2.3615173201703
+# current error = 2.3572444296817
+# current error = 2.3538285752046
+# current error = 2.3510603518248
+# current error = 2.3487887239601
+# current error = 2.3469018441149
+# current error = 2.345316527797
+# current error = 2.3439717920678
+# current error = 2.3428236106178
+# current error = 2.3418409227734
+# current error = 2.3410024071969
+# current error = 2.3402946433697
+# current error = 2.3397096949147
+# current error = 2.3392408109271
+# current error = 2.3388770845965
+# current error = 2.3385999481162
+# current error = 2.3383834613129
+# current error = 2.3381989772988
+# current error = 2.3380218367704
+# current error = 2.3378359377193
+# current error = 2.3376345767956
+# current error = 2.3374187780749
+# current error = 2.3371941561923
+# current error = 2.336967843532
+# current error = 2.3367463260565
+# current error = 2.3365340231157
+# current error = 2.3363331509712
+# current error = 2.3361439687962
+# current error = 2.3359652279712
+# current error = 2.3357947597725
+# current error = 2.3356299326115
+# current error = 2.3354678936422
+# current error = 2.335305838914
+# current error = 2.3351412402194
+# current error = 2.3349717901822
+# current error = 2.3347955587401
+# current error = 2.3346110121403
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.84
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 2.9316870810161
+# current error = 2.5752443500747
+# current error = 2.5473421716093
+# current error = 2.4895782612509
+# current error = 2.4573791300563
+# current error = 2.4359574057668
+# current error = 2.4198061621351
+# current error = 2.4077910666778
+# current error = 2.3985679821641
+# current error = 2.3910866695491
+# current error = 2.3846929298047
+# current error = 2.3791733245178
+# current error = 2.3744603876002
+# current error = 2.3704290224475
+# current error = 2.3669356346199
+# current error = 2.3638604817246
+# current error = 2.3611118120019
+# current error = 2.3586204578889
+# current error = 2.3563351546459
+# current error = 2.3542183983282
+# current error = 2.3522430450205
+# current error = 2.3503893357689
+# current error = 2.3486424813957
+# current error = 2.3469909681813
+# current error = 2.3454254242724
+# current error = 2.3439379412304
+# current error = 2.3425216916876
+# current error = 2.3411707436724
+# current error = 2.3398799503259
+# current error = 2.3386448853165
+# current error = 2.3374617577596
+# current error = 2.3363273264082
+# current error = 2.335238790264
+# current error = 2.3341937019576
+# current error = 2.3331898670332
+# current error = 2.3322252770656
+# current error = 2.3312980609425
+# current error = 2.3304064563875
+# current error = 2.3295487842896
+# current error = 2.3287234518429
+# current error = 2.3279289607802
+# current error = 2.3271639117455
+# current error = 2.3264270105499
+# current error = 2.3257170756684
+# current error = 2.3250330382107
+# current error = 2.3243739314174
+# current error = 2.3237388952948
+# current error = 2.3231271451706
+# current error = 2.3225379649159
+# current error = 2.3219706841459
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.94
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 20
+# StochasticGradient: training
+# current error = 2.8181348285358
+# current error = 2.5898025659358
+# current error = 2.5201744278605
+# current error = 2.4851177191619
+# current error = 2.4630285040233
+# current error = 2.4472763262712
+# current error = 2.4351288758182
+# current error = 2.425062264292
+# current error = 2.4162635242458
+# current error = 2.408564631026
+# current error = 2.4020580692237
+# current error = 2.3966348190536
+# current error = 2.3920783053406
+# current error = 2.3882037100536
+# current error = 2.3848067302532
+# current error = 2.3816654186284
+# current error = 2.3786756989432
+# current error = 2.3760763594757
+# current error = 2.3741007456261
+# current error = 2.3725922553329
+# current error = 2.3713550668679
+# current error = 2.3702855866038
+# current error = 2.3693291425924
+# current error = 2.3684528230104
+# current error = 2.367635032485
+# current error = 2.3668610669566
+# current error = 2.3661208236512
+# current error = 2.3654073231561
+# current error = 2.3647156265778
+# current error = 2.3640420316624
+# current error = 2.3633832630001
+# current error = 2.3627364174292
+# current error = 2.3620989108907
+# current error = 2.3614689837804
+# current error = 2.3608463393624
+# current error = 2.360232554678
+# current error = 2.359630883807
+# current error = 2.3590455027069
+# current error = 2.3584800314794
+# current error = 2.3579359240417
+# current error = 2.3574113054498
+# current error = 2.3569004281278
+# current error = 2.3563940035518
+# current error = 2.3558800859113
+# current error = 2.3553446610384
+# current error = 2.3547718265695
+# current error = 2.3541436234464
+# current error = 2.3534410705823
+# current error = 2.3526492334035
+# current error = 2.3517682909265
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.8
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 2.9121785993301
+# current error = 2.597555547315
+# current error = 2.4740825163118
+# current error = 2.5226755736478
+# current error = 2.4334872034257
+# current error = 2.440888016487
+# current error = 2.4134240455316
+# current error = 2.3952241782249
+# current error = 2.3789152922399
+# current error = 2.363720145627
+# current error = 2.3532880735628
+# current error = 2.3494320991936
+# current error = 2.3434450947965
+# current error = 2.3394710860557
+# current error = 2.3357109023333
+# current error = 2.3326151765181
+# current error = 2.3299545377349
+# current error = 2.3275817668612
+# current error = 2.3253797468054
+# current error = 2.3232678356385
+# current error = 2.3211902675912
+# current error = 2.319117709173
+# current error = 2.3170652766365
+# current error = 2.3150840706321
+# current error = 2.3132205870621
+# current error = 2.3114915738901
+# current error = 2.3098946651456
+# current error = 2.3084227526454
+# current error = 2.3070698362562
+# current error = 2.3058302627846
+# current error = 2.3046972023918
+# current error = 2.3036621193115
+# current error = 2.30271467192
+# current error = 2.3018432370158
+# current error = 2.3010364074244
+# current error = 2.300285519654
+# current error = 2.2995865593597
+# current error = 2.2989389034162
+# current error = 2.2983413990219
+# current error = 2.2977894444626
+# current error = 2.2972750058772
+# current error = 2.2967883124827
+# current error = 2.2963194200522
+# current error = 2.2958592780251
+# current error = 2.2954002243824
+# current error = 2.294936345764
+# current error = 2.2944637114875
+# current error = 2.2939805299849
+# current error = 2.293487149249
+# current error = 2.2929857122854
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.82
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 40
+# StochasticGradient: training
+# current error = 2.9145477396806
+# current error = 2.6353615240695
+# current error = 2.5578907618518
+# current error = 2.517768646214
+# current error = 2.4908721625345
+# current error = 2.4707847672964
+# current error = 2.455254351559
+# current error = 2.4433995102379
+# current error = 2.4339787381799
+# current error = 2.4260744719746
+# current error = 2.4196398546067
+# current error = 2.4148061038437
+# current error = 2.411175673533
+# current error = 2.4082593947494
+# current error = 2.4057836249977
+# current error = 2.4036012037633
+# current error = 2.4016110756805
+# current error = 2.3997299449955
+# current error = 2.3978936419141
+# current error = 2.3960887046748
+# current error = 2.3943896750226
+# current error = 2.3929113189659
+# current error = 2.3916862554074
+# current error = 2.3906519204659
+# current error = 2.3897269955874
+# current error = 2.3888463679345
+# current error = 2.3879582409959
+# current error = 2.3870185706989
+# current error = 2.3859966558466
+# current error = 2.3848959621568
+# current error = 2.3837747953468
+# current error = 2.3827214229089
+# current error = 2.3817763972244
+# current error = 2.3808998001356
+# current error = 2.3800282642239
+# current error = 2.3791218773051
+# current error = 2.378162414329
+# current error = 2.3771435263041
+# current error = 2.3760709804323
+# current error = 2.3749699483245
+# current error = 2.3738899192581
+# current error = 2.372895267072
+# current error = 2.3720414438325
+# current error = 2.371354357544
+# current error = 2.3708250923659
+# current error = 2.370417463003
+# current error = 2.3700824335902
+# current error = 2.3697731892981
+# current error = 2.3694547892225
+# current error = 2.369107472257
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.82
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 2.9205459946446
+# current error = 2.508350365281
+# current error = 2.4449344970007
+# current error = 2.4130398816294
+# current error = 2.3926212568697
+# current error = 2.3833711735464
+# current error = 2.3718810363063
+# current error = 2.3612607483948
+# current error = 2.3524066631847
+# current error = 2.3470719859232
+# current error = 2.3427712773293
+# current error = 2.3386579634067
+# current error = 2.3348280785118
+# current error = 2.3314260416554
+# current error = 2.3283359979273
+# current error = 2.3254775318368
+# current error = 2.3227241127047
+# current error = 2.3199734558667
+# current error = 2.3175280241575
+# current error = 2.3155780213212
+# current error = 2.3137550493056
+# current error = 2.3119820867152
+# current error = 2.3102954559955
+# current error = 2.3086696673915
+# current error = 2.3071044132658
+# current error = 2.3056086698425
+# current error = 2.3042318750905
+# current error = 2.3030916256588
+# current error = 2.302274939307
+# current error = 2.3016580419362
+# current error = 2.3009874200455
+# current error = 2.3000948702313
+# current error = 2.2989400441617
+# current error = 2.2976149574343
+# current error = 2.2963121996509
+# current error = 2.2952149384593
+# current error = 2.2943934441445
+# current error = 2.2937272685693
+# current error = 2.2931066284177
+# current error = 2.2924841794126
+# current error = 2.2918022405048
+# current error = 2.2910644080061
+# current error = 2.2903134385467
+# current error = 2.2895827071665
+# current error = 2.2889246182361
+# current error = 2.2883968861047
+# current error = 2.2880139188422
+# current error = 2.2877606981588
+# current error = 2.2876071418773
+# current error = 2.2875178915554
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.86
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 80
+# StochasticGradient: training
+# current error = 3.0801825358958
+# current error = 2.6882807718744
+# current error = 2.589667789082
+# current error = 2.5404028407101
+# current error = 2.5090431014012
+# current error = 2.4874741574206
+# current error = 2.4719150821294
+# current error = 2.4601793832256
+# current error = 2.4509882802054
+# current error = 2.4434959844997
+# current error = 2.4371548282856
+# current error = 2.4316497584128
+# current error = 2.4268325968176
+# current error = 2.4226219141517
+# current error = 2.4189559657635
+# current error = 2.4157729611553
+# current error = 2.4129931284282
+# current error = 2.4105326837022
+# current error = 2.4083281155993
+# current error = 2.4063460939901
+# current error = 2.4045766833309
+# current error = 2.4030166096791
+# current error = 2.4016544725128
+# current error = 2.4004681167724
+# current error = 2.3994293507623
+# current error = 2.3985088349509
+# current error = 2.3976787895343
+# current error = 2.3969141798253
+# current error = 2.3961940644502
+# current error = 2.3955027147
+# current error = 2.3948301198887
+# current error = 2.3941712897951
+# current error = 2.393524353103
+# current error = 2.3928883777055
+# current error = 2.3922615361266
+# current error = 2.3916400560135
+# current error = 2.3910180987845
+# current error = 2.3903880202473
+# current error = 2.3897409437632
+# current error = 2.3890674310147
+# current error = 2.3883582374741
+# current error = 2.3876048872155
+# current error = 2.3867999234553
+# current error = 2.3859369724103
+# current error = 2.3850104547262
+# current error = 2.3840151787858
+# current error = 2.382945942489
+# current error = 2.3817977435846
+# current error = 2.3805665375218
+# current error = 2.3792511091179
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.9
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.0238684541484
+# current error = 2.5609514027809
+# current error = 2.4733717998724
+# current error = 2.4403648856861
+# current error = 2.406054682518
+# current error = 2.3882174198084
+# current error = 2.3765800741229
+# current error = 2.3687332936078
+# current error = 2.3607424312665
+# current error = 2.3566853371668
+# current error = 2.3517269403839
+# current error = 2.3460805451383
+# current error = 2.3427697545361
+# current error = 2.3401705610353
+# current error = 2.3372160835585
+# current error = 2.3343542039301
+# current error = 2.33181541424
+# current error = 2.3295353075529
+# current error = 2.3275418850975
+# current error = 2.3258122791761
+# current error = 2.3243062534155
+# current error = 2.3229879077494
+# current error = 2.3218412627752
+# current error = 2.3208508147848
+# current error = 2.3199629877866
+# current error = 2.3191148903831
+# current error = 2.3182883893271
+# current error = 2.3174888678554
+# current error = 2.3166957248238
+# current error = 2.3158350923189
+# current error = 2.3148560563733
+# current error = 2.3138550379543
+# current error = 2.312911551253
+# current error = 2.3120037109429
+# current error = 2.3111006707395
+# current error = 2.3101858669125
+# current error = 2.3092505146517
+# current error = 2.3082885429065
+# current error = 2.3072949902055
+# current error = 2.306266413186
+# current error = 2.3052017915049
+# current error = 2.3041024342724
+# current error = 2.3029715184789
+# current error = 2.3018131527724
+# current error = 2.3006313918526
+# current error = 2.2994294770835
+# current error = 2.2982096217166
+# current error = 2.2969731245478
+# current error = 2.2957211663962
+# current error = 2.2944556443823
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.84
+
+ RBF network done. Press enter
+
+
+Taking K value as 2
+Sending data for Whitening
+Calculating Co-Variance X^T X
+Running SVD
+Multiplying U and X
+Normalizing Whitened Data
+# StochasticGradient: training
+# current error = 3.0327866309073
+# current error = 2.7589580282247
+# current error = 2.6652363998151
+# current error = 2.6076260594502
+# current error = 2.5659800415533
+# current error = 2.5336004033516
+# current error = 2.5073196236504
+# current error = 2.485361212552
+# current error = 2.4666229631096
+# current error = 2.4503724833486
+# current error = 2.4360978977171
+# current error = 2.4234274270744
+# current error = 2.412082663158
+# current error = 2.4018497996309
+# current error = 2.3925611842539
+# current error = 2.3840831146245
+# current error = 2.3763072296008
+# current error = 2.3691446658961
+# current error = 2.3625215984628
+# current error = 2.3563762006879
+# current error = 2.3506561823834
+# current error = 2.3453168767844
+# current error = 2.3403199488007
+# current error = 2.3356322715872
+# current error = 2.3312250192632
+# current error = 2.3270729308151
+# current error = 2.3231538750956
+# current error = 2.3194482720215
+# current error = 2.315938701193
+# current error = 2.312609759608
+# current error = 2.3094475446891
+# current error = 2.3064397060362
+# current error = 2.3035750512706
+# current error = 2.3008435389646
+# current error = 2.2982360189153
+# current error = 2.2957441976205
+# current error = 2.2933605556511
+# current error = 2.2910781826004
+# current error = 2.2888908105131
+# current error = 2.2867926391637
+# current error = 2.2847783730775
+# current error = 2.2828431472011
+# current error = 2.280982444667
+# current error = 2.2791921317885
+# current error = 2.2774683488802
+# current error = 2.2758075635652
+# current error = 2.2742064149584
+# current error = 2.2726618844194
+# current error = 2.2711710920819
+# current error = 2.2697313780021
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.88
+
+ Logistic Done, Press Enter
+
+
+
+ Taking Hidden Units Value as 10
+# StochasticGradient: training
+# current error = 2.9562126080353
+# current error = 2.6464980067213
+# current error = 2.5333629554554
+# current error = 2.4748505391342
+# current error = 2.4418415097262
+# current error = 2.4209608525433
+# current error = 2.4066472727171
+# current error = 2.3960527369168
+# current error = 2.3875649342258
+# current error = 2.3805117481122
+# current error = 2.3742039560575
+# current error = 2.3678530084261
+# current error = 2.3611297038182
+# current error = 2.3540794549057
+# current error = 2.3469395932433
+# current error = 2.3399780329401
+# current error = 2.3335802915103
+# current error = 2.3281308097401
+# current error = 2.323739164603
+# current error = 2.3203039188221
+# current error = 2.3176753699508
+# current error = 2.3156961363104
+# current error = 2.3141640751777
+# current error = 2.3128479303304
+# current error = 2.3115790422017
+# current error = 2.3103097611592
+# current error = 2.3090683815823
+# current error = 2.3078734127139
+# current error = 2.306702063949
+# current error = 2.3055189614323
+# current error = 2.3043144995997
+# current error = 2.3031137883171
+# current error = 2.3019481266488
+# current error = 2.3008179420255
+# current error = 2.2996956304407
+# current error = 2.2985664184873
+# current error = 2.2974519342389
+# current error = 2.2963847674031
+# current error = 2.2953694916042
+# current error = 2.2943810915512
+# current error = 2.2933987851054
+# current error = 2.2924319725225
+# current error = 2.2915077208447
+# current error = 2.2906345735516
+# current error = 2.2897908259273
+# current error = 2.2889535580745
+# current error = 2.2881280525523
+# current error = 2.2873393934326
+# current error = 2.2866005484981
+# current error = 2.2859005530604
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.88
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2071538201359
+# current error = 2.9223706700928
+# current error = 2.7390052811449
+# current error = 2.6196547303468
+# current error = 2.553649279444
+# current error = 2.5154437621952
+# current error = 2.4871586552427
+# current error = 2.4633041732052
+# current error = 2.445554492551
+# current error = 2.4315201007616
+# current error = 2.4203208416546
+# current error = 2.411375296993
+# current error = 2.4041168677695
+# current error = 2.3981167422331
+# current error = 2.3929871857639
+# current error = 2.3884313442383
+# current error = 2.3842587746115
+# current error = 2.3803382356968
+# current error = 2.3766404482245
+# current error = 2.3732528884482
+# current error = 2.3702178483156
+# current error = 2.3674383065128
+# current error = 2.3648425704664
+# current error = 2.3624100887323
+# current error = 2.3601297214759
+# current error = 2.3579962196584
+# current error = 2.3560067945958
+# current error = 2.3541548602853
+# current error = 2.352427174797
+# current error = 2.3508046740406
+# current error = 2.3492650689271
+# current error = 2.34778476975
+# current error = 2.3463414038275
+# current error = 2.3449176635305
+# current error = 2.3435066503178
+# current error = 2.3421134181581
+# current error = 2.3407487847629
+# current error = 2.3394210967598
+# current error = 2.3381321680707
+# current error = 2.3368778231735
+# current error = 2.3356499206962
+# current error = 2.334438946769
+# current error = 2.3332361072091
+# current error = 2.3320350793108
+# current error = 2.3308329799121
+# current error = 2.3296304969564
+# current error = 2.3284310887969
+# current error = 2.3272401851431
+# current error = 2.3260638806071
+# current error = 2.3249081301986
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.84
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 20
+# StochasticGradient: training
+# current error = 2.9412663260332
+# current error = 2.6181751097181
+# current error = 2.5338488690714
+# current error = 2.4945305912146
+# current error = 2.469159618686
+# current error = 2.4505598361927
+# current error = 2.436521689176
+# current error = 2.4258356376684
+# current error = 2.4176520885237
+# current error = 2.4112887794617
+# current error = 2.4062099948541
+# current error = 2.4020060714307
+# current error = 2.3983624202688
+# current error = 2.3950302879679
+# current error = 2.3918021899187
+# current error = 2.3884921680007
+# current error = 2.3849736375374
+# current error = 2.381309742718
+# current error = 2.3776603841393
+# current error = 2.3739774423121
+# current error = 2.3702151660306
+# current error = 2.3664635784338
+# current error = 2.3628567474476
+# current error = 2.3595285502567
+# current error = 2.3565498806662
+# current error = 2.3539170141723
+# current error = 2.3515833365999
+# current error = 2.3494934782027
+# current error = 2.3476012172045
+# current error = 2.3458715287958
+# current error = 2.3442757613022
+# current error = 2.3427872427739
+# current error = 2.3413809245018
+# current error = 2.3400354705516
+# current error = 2.3387354917257
+# current error = 2.3374718483377
+# current error = 2.3362407169716
+# current error = 2.3350413425154
+# current error = 2.3338738496455
+# current error = 2.3327381788162
+# current error = 2.3316337649647
+# current error = 2.330559727638
+# current error = 2.3295153894586
+# current error = 2.3285002621705
+# current error = 2.3275139331238
+# current error = 2.32655583145
+# current error = 2.3256250430764
+# current error = 2.3247204674255
+# current error = 2.3238409324971
+# current error = 2.322985365001
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.8
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.1411551825487
+# current error = 2.7981857126269
+# current error = 2.6223233043995
+# current error = 2.5388585635888
+# current error = 2.4856329225529
+# current error = 2.4478978808512
+# current error = 2.4200206244853
+# current error = 2.3993534167905
+# current error = 2.3828573398389
+# current error = 2.3685202873722
+# current error = 2.3558548359817
+# current error = 2.3450659559409
+# current error = 2.3360160149346
+# current error = 2.3283433265151
+# current error = 2.3217694067061
+# current error = 2.3161185524988
+# current error = 2.311289815125
+# current error = 2.3072197987323
+# current error = 2.3038437476501
+# current error = 2.3011012901433
+# current error = 2.2983007467079
+# current error = 2.2942368313812
+# current error = 2.2906983760964
+# current error = 2.2880552489748
+# current error = 2.2860404881343
+# current error = 2.2844188275718
+# current error = 2.282877907804
+# current error = 2.2811814917446
+# current error = 2.278988590357
+# current error = 2.2765506742745
+# current error = 2.2748655770898
+# current error = 2.2735283199522
+# current error = 2.2722975555203
+# current error = 2.2710689148275
+# current error = 2.2697929016023
+# current error = 2.2684404328366
+# current error = 2.2669914377616
+# current error = 2.2654372508184
+# current error = 2.2637824945866
+# current error = 2.2620300272483
+# current error = 2.2601769925313
+# current error = 2.2582484002617
+# current error = 2.2563019565031
+# current error = 2.2543954223657
+# current error = 2.2525628714737
+# current error = 2.2508092407023
+# current error = 2.2491184796474
+# current error = 2.2474664155352
+# current error = 2.2458286223299
+# current error = 2.2441792888994
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.84
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 40
+# StochasticGradient: training
+# current error = 2.9182678893132
+# current error = 2.6374253435387
+# current error = 2.5542766884932
+# current error = 2.5120516457606
+# current error = 2.4857484891212
+# current error = 2.4678513123067
+# current error = 2.4550794150584
+# current error = 2.4454231523033
+# current error = 2.4376872179147
+# current error = 2.4313075787021
+# current error = 2.4260353560744
+# current error = 2.4216889399513
+# current error = 2.4180695250133
+# current error = 2.4149794993391
+# current error = 2.4122423471716
+# current error = 2.4097034772683
+# current error = 2.4072210205018
+# current error = 2.40466446229
+# current error = 2.4019205113569
+# current error = 2.3988946603798
+# current error = 2.3955300109056
+# current error = 2.3918543378478
+# current error = 2.3879938870441
+# current error = 2.3841210241868
+# current error = 2.3803782068044
+# current error = 2.3768370574971
+# current error = 2.3735119521038
+# current error = 2.3703906121012
+# current error = 2.3674545526664
+# current error = 2.3646862112529
+# current error = 2.3620681323204
+# current error = 2.3595828767209
+# current error = 2.3572171835902
+# current error = 2.3549665927943
+# current error = 2.3528297310846
+# current error = 2.350792967755
+# current error = 2.3488233748076
+# current error = 2.3468769888107
+# current error = 2.3449063901274
+# current error = 2.3428582429929
+# current error = 2.3406832385691
+# current error = 2.3384078800685
+# current error = 2.3361436938205
+# current error = 2.3340237665199
+# current error = 2.332058699693
+# current error = 2.3301996612068
+# current error = 2.3284339378513
+# current error = 2.3267598335994
+# current error = 2.3251735406291
+# current error = 2.3236675125512
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.76
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.0841483178646
+# current error = 2.6965296290897
+# current error = 2.5527889132481
+# current error = 2.4809375919076
+# current error = 2.4321482391793
+# current error = 2.3992837359576
+# current error = 2.3741079497634
+# current error = 2.3533891211471
+# current error = 2.3372424464783
+# current error = 2.3220602029914
+# current error = 2.3099678558101
+# current error = 2.3011134186596
+# current error = 2.2889167151366
+# current error = 2.2836961143104
+# current error = 2.2735933368865
+# current error = 2.2718730986519
+# current error = 2.264067369582
+# current error = 2.2612474861752
+# current error = 2.2609534157069
+# current error = 2.2732650935569
+# current error = 2.2874836132932
+# current error = 2.2701307678234
+# current error = 2.2639695054178
+# current error = 2.2566747113965
+# current error = 2.251299469466
+# current error = 2.2460320771934
+# current error = 2.2423864689553
+# current error = 2.237561217982
+# current error = 2.2343196279787
+# current error = 2.2317762602452
+# current error = 2.2431809079679
+# current error = 4.3027865816965
+# current error = 4.5226269139253
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# current error = 4.5226269728139
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 80
+# StochasticGradient: training
+# current error = 3.0691284864464
+# current error = 2.6953354540723
+# current error = 2.5896833215692
+# current error = 2.5376651063239
+# current error = 2.5032770389865
+# current error = 2.4786521114961
+# current error = 2.4601573372296
+# current error = 2.4455664065322
+# current error = 2.4335321738865
+# current error = 2.4233877943426
+# current error = 2.4147791752524
+# current error = 2.407322952706
+# current error = 2.4006377649741
+# current error = 2.3944721113037
+# current error = 2.3887202094034
+# current error = 2.3833523318051
+# current error = 2.3783616460964
+# current error = 2.3738082363635
+# current error = 2.3697976626947
+# current error = 2.3663421444692
+# current error = 2.3633548519685
+# current error = 2.3607352311119
+# current error = 2.3584027622152
+# current error = 2.3562956290013
+# current error = 2.3543657809279
+# current error = 2.3525756759021
+# current error = 2.3508957012871
+# current error = 2.3493027115772
+# current error = 2.3477799501378
+# current error = 2.3463178754941
+# current error = 2.3449146916914
+# current error = 2.3435755566433
+# current error = 2.3423094715399
+# current error = 2.3411231074554
+# current error = 2.340014382457
+# current error = 2.3389708534734
+# current error = 2.3379764760273
+# current error = 2.3370200931928
+# current error = 2.336098552294
+# current error = 2.3352159764643
+# current error = 2.3343818531709
+# current error = 2.3336046456716
+# current error = 2.3328813647835
+# current error = 2.3321925473158
+# current error = 2.3315076953441
+# current error = 2.3307959847312
+# current error = 2.3300368731106
+# current error = 2.3292259279304
+# current error = 2.328374240456
+# current error = 2.3275024893376
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.82
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.0831640091708
+# current error = 2.7048967740122
+# current error = 2.5362021865795
+# current error = 2.460647086968
+# current error = 2.3995669224478
+# current error = 2.3763033480691
+# current error = 2.3628755833077
+# current error = 2.3368225092567
+# current error = 2.3196439835068
+# current error = 2.30533056896
+# current error = 2.2951599026347
+# current error = 2.2872795794663
+# current error = 2.2750005665751
+# current error = 2.2737630613736
+# current error = 2.2559792950688
+# current error = 2.2573064642455
+# current error = 2.2549878366832
+# current error = 2.2497405286199
+# current error = 2.2340668687469
+# current error = 2.234727544036
+# current error = 2.2694770684689
+# current error = 2.2357306160865
+# current error = 2.2262882018209
+# current error = 2.2180670679985
+# current error = 2.2126203164444
+# current error = 2.2029769164015
+# current error = 2.208064548991
+# current error = 2.2027459825811
+# current error = 2.2063764103174
+# current error = 2.1967000606308
+# current error = 2.1871631035005
+# current error = 2.2837169782917
+# current error = 2.193732746853
+# current error = 2.1929453049364
+# current error = 2.1856945925832
+# current error = 2.1799471353519
+# current error = 2.1936535442165
+# current error = 2.1822782167257
+# current error = 2.1966170383054
+# current error = 2.1807586644403
+# current error = 2.1770953740291
+# current error = 2.174398483102
+# current error = 2.1688948678941
+# current error = 2.1611056658099
+# current error = 2.1583381765358
+# current error = 2.1585264954055
+# current error = 2.1610082555927
+# current error = 2.16248243808
+# current error = 2.1594795020897
+# current error = 2.1521552027646
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.92
+
+ RBF network done. Press enter
+
+
+Taking K value as 4
+Sending data for Whitening
+Calculating Co-Variance X^T X
+Running SVD
+Multiplying U and X
+Normalizing Whitened Data
+# StochasticGradient: training
+# current error = 3.0840997736727
+# current error = 2.7802209116005
+# current error = 2.6881568746439
+# current error = 2.6314999063805
+# current error = 2.5904398261824
+# current error = 2.558461583419
+# current error = 2.5324812039839
+# current error = 2.5107607932383
+# current error = 2.4922172539296
+# current error = 2.4761288770681
+# current error = 2.4619906214778
+# current error = 2.4494355022016
+# current error = 2.4381888295685
+# current error = 2.4280396613414
+# current error = 2.4188226944668
+# current error = 2.4104061772959
+# current error = 2.4026833331192
+# current error = 2.395566658571
+# current error = 2.3889834518773
+# current error = 2.3828727750084
+# current error = 2.3771830694139
+# current error = 2.3718703584701
+# current error = 2.3668968484976
+# current error = 2.3622298854861
+# current error = 2.3578409965851
+# current error = 2.3537053108077
+# current error = 2.3498009409299
+# current error = 2.346108490894
+# current error = 2.3426108176624
+# current error = 2.3392926215357
+# current error = 2.3361402546773
+# current error = 2.3331414100487
+# current error = 2.3302850046719
+# current error = 2.3275610598847
+# current error = 2.3249605541096
+# current error = 2.3224752021408
+# current error = 2.3200975921421
+# current error = 2.317820855354
+# current error = 2.3156387449516
+# current error = 2.3135455200894
+# current error = 2.311535918453
+# current error = 2.3096050972086
+# current error = 2.3077485715495
+# current error = 2.3059622153267
+# current error = 2.3042421720359
+# current error = 2.3025849128764
+# current error = 2.3009872047229
+# current error = 2.2994459136747
+# current error = 2.2979582162032
+# current error = 2.2965214336594
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.92
+
+ Logistic Done, Press Enter
+
+
+
+ Taking Hidden Units Value as 10
+# StochasticGradient: training
+# current error = 2.9864071807116
+# current error = 2.6426344720899
+# current error = 2.5185419528142
+# current error = 2.4581220687339
+# current error = 2.4231103321411
+# current error = 2.3976414790227
+# current error = 2.3767943240938
+# current error = 2.3598319385514
+# current error = 2.3459083466769
+# current error = 2.3337053684619
+# current error = 2.3222578683289
+# current error = 2.3121449413541
+# current error = 2.3030242540881
+# current error = 2.2946026878212
+# current error = 2.2869471760856
+# current error = 2.2800921748666
+# current error = 2.274037144966
+# current error = 2.2686829790398
+# current error = 2.2638698347157
+# current error = 2.2594221243625
+# current error = 2.2551767103856
+# current error = 2.2510573826082
+# current error = 2.2470911917375
+# current error = 2.2433284742393
+# current error = 2.2397467271017
+# current error = 2.2362107289535
+# current error = 2.2325747400617
+# current error = 2.2287973994262
+# current error = 2.2249811619932
+# current error = 2.2212625930337
+# current error = 2.2176810896386
+# current error = 2.214194422298
+# current error = 2.2107535066123
+# current error = 2.2073655410388
+# current error = 2.2041242895982
+# current error = 2.2011432551585
+# current error = 2.1984730974166
+# current error = 2.1961021945076
+# current error = 2.1939911258709
+# current error = 2.1920942360894
+# current error = 2.1903654006965
+# current error = 2.1887590487837
+# current error = 2.187232208081
+# current error = 2.1857477533681
+# current error = 2.1842766373506
+# current error = 2.1827991608931
+# current error = 2.1813039424725
+# current error = 2.1797867026894
+# current error = 2.1782479804568
+# current error = 2.1766915602261
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.86
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2936951850418
+# current error = 3.2601112225386
+# current error = 3.2141987094402
+# current error = 3.1443521638669
+# current error = 3.027182526697
+# current error = 2.8759868447963
+# current error = 2.7523366467512
+# current error = 2.6709680761432
+# current error = 2.6151733076288
+# current error = 2.5737007038707
+# current error = 2.5414120311707
+# current error = 2.515534928012
+# current error = 2.4941127450075
+# current error = 2.4758095510312
+# current error = 2.4598688843184
+# current error = 2.4458378436486
+# current error = 2.4333851592191
+# current error = 2.4222330181071
+# current error = 2.4121448178651
+# current error = 2.4029286821872
+# current error = 2.3944388106501
+# current error = 2.3865732345163
+# current error = 2.3792661721611
+# current error = 2.3724783325053
+# current error = 2.3661865828345
+# current error = 2.3603753311458
+# current error = 2.3550314152313
+# current error = 2.3501385839086
+# current error = 2.345672243205
+# current error = 2.3415901414584
+# current error = 2.3378238349381
+# current error = 2.3342801458364
+# current error = 2.3308619009812
+# current error = 2.3274981315004
+# current error = 2.3241601856564
+# current error = 2.3208523778266
+# current error = 2.3175895861205
+# current error = 2.3143831316357
+# current error = 2.3112371062362
+# current error = 2.3081506530341
+# current error = 2.3051201855169
+# current error = 2.3021413307791
+# current error = 2.2992100166513
+# current error = 2.2963230229789
+# current error = 2.2934789065627
+# current error = 2.2906783687644
+# current error = 2.2879251581614
+# current error = 2.2852265271449
+# current error = 2.2825937219625
+# current error = 2.2800422849803
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.86
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 20
+# StochasticGradient: training
+# current error = 2.9721503813053
+# current error = 2.6473621443058
+# current error = 2.5510217912723
+# current error = 2.5040727371362
+# current error = 2.4760575312672
+# current error = 2.456048751281
+# current error = 2.4397993740975
+# current error = 2.4251319321741
+# current error = 2.4105321389483
+# current error = 2.3947122794614
+# current error = 2.37822295015
+# current error = 2.3623647724522
+# current error = 2.3474001399639
+# current error = 2.3332361982734
+# current error = 2.3197511553177
+# current error = 2.3069294434166
+# current error = 2.2948676472485
+# current error = 2.2837156536065
+# current error = 2.2735724357492
+# current error = 2.2644077295924
+# current error = 2.2561163093805
+# current error = 2.2486484918975
+# current error = 2.2419816707172
+# current error = 2.2360595708399
+# current error = 2.2307933090954
+# current error = 2.2260940869311
+# current error = 2.2218755869304
+# current error = 2.218036675807
+# current error = 2.2144711086306
+# current error = 2.2110865194418
+# current error = 2.2078042789577
+# current error = 2.2045468179669
+# current error = 2.2012404857941
+# current error = 2.1978382963093
+# current error = 2.1943367119952
+# current error = 2.190771717443
+# current error = 2.1872011627521
+# current error = 2.1836881572792
+# current error = 2.1802758708784
+# current error = 2.1769694531302
+# current error = 2.1737450465845
+# current error = 2.1705710059337
+# current error = 2.1674215647363
+# current error = 2.1642825133461
+# current error = 2.1611646457933
+# current error = 2.158151335324
+# current error = 2.1555121313367
+# current error = 2.1536417656593
+# current error = 2.1517525570889
+# current error = 2.1482767643124
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.86
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2940374927449
+# current error = 3.2585706066655
+# current error = 3.207046945115
+# current error = 3.1072469160578
+# current error = 2.9507381443685
+# current error = 2.795976503544
+# current error = 2.684102731066
+# current error = 2.6089867183499
+# current error = 2.5559580007036
+# current error = 2.5152022861572
+# current error = 2.4822944531019
+# current error = 2.4546020378326
+# current error = 2.4305224332193
+# current error = 2.4094025921448
+# current error = 2.3904690559675
+# current error = 2.372849799494
+# current error = 2.3565562350494
+# current error = 2.3416748802253
+# current error = 2.328105920199
+# current error = 2.3158186609117
+# current error = 2.3045286385238
+# current error = 2.2930504672246
+# current error = 2.2813837927814
+# current error = 2.270079631502
+# current error = 2.2595828914392
+# current error = 2.2501923851189
+# current error = 2.2425247485395
+# current error = 2.2376246489508
+# current error = 2.2345163042478
+# current error = 2.2319356842945
+# current error = 2.2271138002325
+# current error = 2.2195369460432
+# current error = 2.2109313758469
+# current error = 2.2019038159401
+# current error = 2.1943370879915
+# current error = 2.1882967731184
+# current error = 2.1887026674647
+# current error = 2.1733016687338
+# current error = 2.2217615204243
+# current error = 2.2029113028324
+# current error = 2.2221885878438
+# current error = 2.2060896235797
+# current error = 2.1769582402547
+# current error = 2.2019405083731
+# current error = 2.2269949640525
+# current error = 2.1872154239478
+# current error = 2.1908800117422
+# current error = 2.1817701943931
+# current error = 2.2003436851602
+# current error = 2.1877165851976
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.84
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 40
+# StochasticGradient: training
+# current error = 2.9502320680325
+# current error = 2.6379013834245
+# current error = 2.5513852198266
+# current error = 2.5109369996764
+# current error = 2.4858457240087
+# current error = 2.465424449033
+# current error = 2.4499364147221
+# current error = 2.4366807340595
+# current error = 2.4233182390289
+# current error = 2.4111749659786
+# current error = 2.4001266363411
+# current error = 2.3879471364122
+# current error = 2.3751376461332
+# current error = 2.3616151123283
+# current error = 2.3475645219845
+# current error = 2.3339741552399
+# current error = 2.3213201256489
+# current error = 2.3094345504149
+# current error = 2.2984969788433
+# current error = 2.2885113034879
+# current error = 2.2786326180544
+# current error = 2.2689362886427
+# current error = 2.2594302542723
+# current error = 2.2501227660115
+# current error = 2.2410064529232
+# current error = 2.2320980397142
+# current error = 2.2239757488387
+# current error = 2.2168842929188
+# current error = 2.210596136962
+# current error = 2.2047360506078
+# current error = 2.1991812902659
+# current error = 2.1940441487586
+# current error = 2.1892347117459
+# current error = 2.184470074307
+# current error = 2.1796147030142
+# current error = 2.1746754410149
+# current error = 2.1694535279348
+# current error = 2.1637762266208
+# current error = 2.1575994873986
+# current error = 2.1508449768317
+# current error = 2.1436772097801
+# current error = 2.1366730605438
+# current error = 2.1304507062335
+# current error = 2.1252463976208
+# current error = 2.12091180682
+# current error = 2.1172069521458
+# current error = 2.1139615989702
+# current error = 2.1110474385042
+# current error = 2.10834149143
+# current error = 2.1057811418598
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.88
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2771429694319
+# current error = 3.2035207658752
+# current error = 3.0919659119641
+# current error = 2.9216535456447
+# current error = 2.7630895495369
+# current error = 2.6518015959956
+# current error = 2.5732924661523
+# current error = 2.5147676761168
+# current error = 2.4686928745949
+# current error = 2.4307953928421
+# current error = 2.3987714043387
+# current error = 2.3712448936401
+# current error = 2.3464572309071
+# current error = 2.322287129996
+# current error = 2.2984371538376
+# current error = 2.2752689714373
+# current error = 2.2530260565184
+# current error = 2.2323164636927
+# current error = 2.2126121014001
+# current error = 2.1955067380093
+# current error = 2.1945120754147
+# current error = 2.1829685633398
+# current error = 2.1713511303838
+# current error = 2.1524647063014
+# current error = 2.1477563306409
+# current error = 2.1542795766936
+# current error = 2.1078783179865
+# current error = 2.1224873926606
+# current error = 2.1294803430935
+# current error = 2.1580814277458
+# current error = 2.1912758129563
+# current error = 2.2302414103048
+# current error = 2.1958563892753
+# current error = 2.1797734235394
+# current error = 2.1540757802557
+# current error = 2.1592524908175
+# current error = 2.1810059042908
+# current error = 2.1651878981283
+# current error = 2.1296705217362
+# current error = 2.1780703738403
+# current error = 2.1416965471229
+# current error = 2.1527544935503
+# current error = 2.1502950624839
+# current error = 2.0881811274174
+# current error = 2.0908673807861
+# current error = 2.1418214233124
+# current error = 2.1231859578011
+# current error = 2.1311425828409
+# current error = 2.1344558766657
+# current error = 2.1653318915087
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.9
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 80
+# StochasticGradient: training
+# current error = 3.0326442599677
+# current error = 2.6919874775999
+# current error = 2.597777294501
+# current error = 2.5489689795692
+# current error = 2.5155485517014
+# current error = 2.489722145266
+# current error = 2.468006378242
+# current error = 2.4491932588154
+# current error = 2.4329028384454
+# current error = 2.4189565359426
+# current error = 2.4067504708061
+# current error = 2.3955242816745
+# current error = 2.3856123509598
+# current error = 2.3769511098853
+# current error = 2.3688140195967
+# current error = 2.3610392556421
+# current error = 2.3540708539247
+# current error = 2.347719656493
+# current error = 2.341277477137
+# current error = 2.3345438891154
+# current error = 2.327327157651
+# current error = 2.3191426290666
+# current error = 2.309893158888
+# current error = 2.300201345737
+# current error = 2.2904018524139
+# current error = 2.2805929259269
+# current error = 2.2711228285223
+# current error = 2.2625015392035
+# current error = 2.2549170534633
+# current error = 2.248291840132
+# current error = 2.2423800031313
+# current error = 2.2370951655538
+# current error = 2.2322392873926
+# current error = 2.2275570154678
+# current error = 2.222832465656
+# current error = 2.2180625704301
+# current error = 2.2131861969076
+# current error = 2.2081885084292
+# current error = 2.2033366912775
+# current error = 2.1987791834971
+# current error = 2.1945831043331
+# current error = 2.1906725419807
+# current error = 2.1871726808494
+# current error = 2.1839940598887
+# current error = 2.1809961866154
+# current error = 2.178194697282
+# current error = 2.1756701173457
+# current error = 2.1733371088345
+# current error = 2.1711893668805
+# current error = 2.1692978829104
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.88
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2778831892777
+# current error = 3.1805909328172
+# current error = 3.0479988134314
+# current error = 2.8756931149542
+# current error = 2.7303259040503
+# current error = 2.6292251878594
+# current error = 2.555184524921
+# current error = 2.4959895570193
+# current error = 2.4467500063884
+# current error = 2.403106555241
+# current error = 2.3606459010856
+# current error = 2.3179729545576
+# current error = 2.2756931346703
+# current error = 2.240677233932
+# current error = 2.2135004350572
+# current error = 2.1779160961505
+# current error = 2.1444494703348
+# current error = 2.1322731593611
+# current error = 2.3181102901822
+# current error = 2.1184604481223
+# current error = 2.1941123165951
+# current error = 2.1133556433526
+# current error = 2.0984535950153
+# current error = 2.0822517483582
+# current error = 2.0598618776212
+# current error = 2.0160167930375
+# current error = 2.017636009293
+# current error = 2.0226363956578
+# current error = 2.0256115494873
+# current error = 1.9832389618559
+# current error = 1.969400049631
+# current error = 1.9746002267159
+# current error = 2.3645612532748
+# current error = 1.9565547639596
+# current error = 1.970376269153
+# current error = 1.9773019595219
+# current error = 1.9875593336103
+# current error = 6.539036006223
+# current error = 7.8444583241045
+# current error = 7.8444068655373
+# current error = 7.8444025422344
+# current error = 7.8444019604776
+# current error = 7.8444018746701
+# current error = 7.8444018598605
+# current error = 7.8444018552653
+# current error = 7.8444018521343
+# current error = 7.8444018492113
+# current error = 7.8444018463167
+# current error = 7.8444018434249
+# current error = 7.8444018405321
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+Taking K value as 8
+Sending data for Whitening
+Calculating Co-Variance X^T X
+Running SVD
+Multiplying U and X
+Normalizing Whitened Data
+# StochasticGradient: training
+# current error = 3.1420581894137
+# current error = 2.8028179677859
+# current error = 2.7109562463289
+# current error = 2.6542884893361
+# current error = 2.6127987423113
+# current error = 2.5803021203632
+# current error = 2.5538250976954
+# current error = 2.53165275738
+# current error = 2.5127014745155
+# current error = 2.49624409212
+# current error = 2.4817700804455
+# current error = 2.4689075265104
+# current error = 2.4573775644889
+# current error = 2.4469658577588
+# current error = 2.4375042198572
+# current error = 2.4288584428934
+# current error = 2.4209198061272
+# current error = 2.4135989851239
+# current error = 2.4068219687491
+# current error = 2.400526566471
+# current error = 2.3946602738824
+# current error = 2.3891782157696
+# current error = 2.3840418866477
+# current error = 2.3792179945371
+# current error = 2.3746774968314
+# current error = 2.3703950497348
+# current error = 2.3663484004066
+# current error = 2.3625178508054
+# current error = 2.3588859570887
+# current error = 2.3554371242055
+# current error = 2.3521574178281
+# current error = 2.3490343704863
+# current error = 2.3460567038687
+# current error = 2.3432142731576
+# current error = 2.3404978765567
+# current error = 2.3378991996148
+# current error = 2.3354105991192
+# current error = 2.3330251651654
+# current error = 2.3307365199955
+# current error = 2.3285388502752
+# current error = 2.3264267940662
+# current error = 2.3243954500141
+# current error = 2.3224402466763
+# current error = 2.3205569897349
+# current error = 2.3187418181943
+# current error = 2.3169910756348
+# current error = 2.3153014526961
+# current error = 2.3136698527611
+# current error = 2.3120933454668
+# current error = 2.3105692083251
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.82
+
+ Logistic Done, Press Enter
+
+
+
+ Taking Hidden Units Value as 10
+# StochasticGradient: training
+# current error = 3.0065129029113
+# current error = 2.6533384532892
+# current error = 2.5318137013645
+# current error = 2.4562424088735
+# current error = 2.4020212758068
+# current error = 2.3567593835902
+# current error = 2.3196128201999
+# current error = 2.2880448605263
+# current error = 2.2603822980502
+# current error = 2.2363091706946
+# current error = 2.2161190479994
+# current error = 2.199481955945
+# current error = 2.1866839446677
+# current error = 2.1756687726511
+# current error = 2.165940283787
+# current error = 2.157754158212
+# current error = 2.1496852265578
+# current error = 2.1417856396117
+# current error = 2.1342201962832
+# current error = 2.1252813532084
+# current error = 2.1151908378365
+# current error = 2.1062593181785
+# current error = 2.0969222031423
+# current error = 2.0868345483424
+# current error = 2.0773129871216
+# current error = 2.067732484355
+# current error = 2.0591724691016
+# current error = 2.0495775454174
+# current error = 2.0445110074108
+# current error = 2.038612455498
+# current error = 2.036302302815
+# current error = 2.0344223768743
+# current error = 2.033833812769
+# current error = 2.0314242149373
+# current error = 2.0289316961738
+# current error = 2.0294368396141
+# current error = 2.0264870052522
+# current error = 2.0215172951104
+# current error = 2.0154572330518
+# current error = 2.0126648352389
+# current error = 2.0085270594438
+# current error = 2.0129319977542
+# current error = 2.0100576086825
+# current error = 2.0159360845671
+# current error = 2.0094809426041
+# current error = 2.0089354761857
+# current error = 2.0027759886065
+# current error = 2.0009204172305
+# current error = 2.0035796999157
+# current error = 1.9934442039062
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.76
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.3017482651883
+# current error = 3.2987814942401
+# current error = 3.2991980653858
+# current error = 3.2993246971068
+# current error = 3.2993401036926
+# current error = 3.2993269076743
+# current error = 3.299304749512
+# current error = 3.2992769841144
+# current error = 3.2992427018603
+# current error = 3.2991991537306
+# current error = 3.2991416445226
+# current error = 3.2990622046596
+# current error = 3.2989464849118
+# current error = 3.2987663684463
+# current error = 3.2984599983228
+# current error = 3.2978662840303
+# current error = 3.2964383445118
+# current error = 3.2915374007181
+# current error = 3.2774390699948
+# current error = 3.2570942163012
+# current error = 3.2274443627711
+# current error = 3.1824841863879
+# current error = 3.119161010873
+# current error = 3.0449224993822
+# current error = 2.9722561682536
+# current error = 2.9083727221523
+# current error = 2.854330190533
+# current error = 2.8086321519409
+# current error = 2.7694146141588
+# current error = 2.7351167880369
+# current error = 2.7045611372944
+# current error = 2.6768841080633
+# current error = 2.6514532118258
+# current error = 2.6278012566827
+# current error = 2.6055793430801
+# current error = 2.584524496027
+# current error = 2.5644373492786
+# current error = 2.545166631665
+# current error = 2.5265981736603
+# current error = 2.508646740854
+# current error = 2.4912497661853
+# current error = 2.4743622029483
+# current error = 2.4579521887154
+# current error = 2.4419976932721
+# current error = 2.4264851720881
+# current error = 2.4114118347191
+# current error = 2.3967932779243
+# current error = 2.382675868115
+# current error = 2.3691473757197
+# current error = 2.3563339047192
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.88
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 20
+# StochasticGradient: training
+# current error = 3.0216070492432
+# current error = 2.6867132505596
+# current error = 2.571540469274
+# current error = 2.5041104917677
+# current error = 2.4566767885307
+# current error = 2.4181370708252
+# current error = 2.3784274582272
+# current error = 2.3380171746663
+# current error = 2.2989244719657
+# current error = 2.2588402088615
+# current error = 2.2189568882447
+# current error = 2.1800702807263
+# current error = 2.1428986249122
+# current error = 2.1081009580111
+# current error = 2.073854144339
+# current error = 2.0388688390788
+# current error = 2.0099268389977
+# current error = 1.9882652291862
+# current error = 1.9743208226101
+# current error = 1.9536741818013
+# current error = 1.9352612390213
+# current error = 1.9117690451837
+# current error = 1.877709842053
+# current error = 1.848983106546
+# current error = 1.8161811223288
+# current error = 1.7863819340678
+# current error = 1.7642507633667
+# current error = 1.7417714522775
+# current error = 1.7195599433224
+# current error = 1.6999651654774
+# current error = 1.6835420501269
+# current error = 1.6681470835091
+# current error = 1.6637287806813
+# current error = 1.6561981859712
+# current error = 1.641021369427
+# current error = 1.6331352494399
+# current error = 1.5971697411934
+# current error = 1.5873709174937
+# current error = 1.5759303304371
+# current error = 1.5580321454396
+# current error = 1.5453688920634
+# current error = 1.5262465635851
+# current error = 1.5210336051155
+# current error = 1.5153216197543
+# current error = 1.5045937157881
+# current error = 1.4820196762348
+# current error = 1.4730074851717
+# current error = 1.4765782443648
+# current error = 1.4522677411005
+# current error = 1.4512410502618
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.92
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.3022740213675
+# current error = 3.2913941036759
+# current error = 3.276407087011
+# current error = 3.2548111509063
+# current error = 3.2244533842409
+# current error = 3.1737054028109
+# current error = 3.0931212504876
+# current error = 2.9942028526509
+# current error = 2.9008572181225
+# current error = 2.8236106819447
+# current error = 2.7612738273386
+# current error = 2.7101660002136
+# current error = 2.6672272936081
+# current error = 2.630313755484
+# current error = 2.597958875514
+# current error = 2.5691443557028
+# current error = 2.543145895584
+# current error = 2.5194359004442
+# current error = 2.4976217659217
+# current error = 2.4774052316161
+# current error = 2.4585551525604
+# current error = 2.4408886944877
+# current error = 2.4242584307112
+# current error = 2.4085433461983
+# current error = 2.3936427211834
+# current error = 2.3794716191021
+# current error = 2.365957517041
+# current error = 2.3530376915943
+# current error = 2.3406570482491
+# current error = 2.3287665438056
+# current error = 2.317321942118
+# current error = 2.306283017055
+# current error = 2.2956129711795
+# current error = 2.2852781715427
+# current error = 2.2752478852129
+# current error = 2.2654943411064
+# current error = 2.2559923831769
+# current error = 2.2467196259597
+# current error = 2.2376562631381
+# current error = 2.2287848767136
+# current error = 2.220090278259
+# current error = 2.2115591933312
+# current error = 2.2031798091432
+# current error = 2.1949411106585
+# current error = 2.1868323707332
+# current error = 2.1788423705793
+# current error = 2.1709584901921
+# current error = 2.1631662188574
+# current error = 2.1554488248218
+# current error = 2.1477878064083
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.94
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 40
+# StochasticGradient: training
+# current error = 3.0407214773948
+# current error = 2.7201287328487
+# current error = 2.6308767444485
+# current error = 2.5782349319408
+# current error = 2.5359321799906
+# current error = 2.4920738572989
+# current error = 2.4448029923169
+# current error = 2.3982493276608
+# current error = 2.3517296174662
+# current error = 2.3035660112751
+# current error = 2.2559098978344
+# current error = 2.2065612411622
+# current error = 2.1527885163898
+# current error = 2.0931990237673
+# current error = 2.0348362151907
+# current error = 1.9818329632544
+# current error = 1.9330530555165
+# current error = 1.8880437094744
+# current error = 1.8428666353464
+# current error = 1.7993962453177
+# current error = 1.7566317759411
+# current error = 1.7153502894191
+# current error = 1.6799488733477
+# current error = 1.6457721329723
+# current error = 1.6166236794385
+# current error = 1.5910224975687
+# current error = 1.5636858546909
+# current error = 1.5463027181589
+# current error = 1.5341172636487
+# current error = 1.5060808754347
+# current error = 1.4720818650904
+# current error = 1.4220497873959
+# current error = 1.4133986649408
+# current error = 1.3628408671965
+# current error = 1.3183156400691
+# current error = 1.264871874237
+# current error = 1.2429015428536
+# current error = 1.2356472121654
+# current error = 1.2406461281999
+# current error = 1.1978750290385
+# current error = 1.1554842104893
+# current error = 1.135076525616
+# current error = 1.0896905852121
+# current error = 1.0540671430636
+# current error = 1.0154708208871
+# current error = 0.99109041343074
+# current error = 0.967138622442
+# current error = 0.99780504319372
+# current error = 0.96829870092074
+# current error = 0.96669627186851
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.84
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2954860268795
+# current error = 3.2973237844607
+# current error = 3.298148942672
+# current error = 3.2981364334437
+# current error = 3.2977656594836
+# current error = 3.2968673582079
+# current error = 3.2940025966412
+# current error = 3.2820317543138
+# current error = 3.2635375456334
+# current error = 3.2410067115426
+# current error = 3.2161802903655
+# current error = 3.1807082589052
+# current error = 3.1233018481205
+# current error = 3.0371559116343
+# current error = 2.9356698320132
+# current error = 2.8404059499362
+# current error = 2.7598469937047
+# current error = 2.6931754004942
+# current error = 2.6374171856549
+# current error = 2.5899523066363
+# current error = 2.548861805819
+# current error = 2.5127777258693
+# current error = 2.4807105532016
+# current error = 2.4519270279392
+# current error = 2.4258699603252
+# current error = 2.4021055188477
+# current error = 2.3802881486767
+# current error = 2.3601371670083
+# current error = 2.3414209674529
+# current error = 2.3239460316663
+# current error = 2.3075489881616
+# current error = 2.292090608697
+# current error = 2.27745094888
+# current error = 2.2635255672762
+# current error = 2.2502225464322
+# current error = 2.2374601385791
+# current error = 2.2251649423735
+# current error = 2.2132706335264
+# current error = 2.201716933345
+# current error = 2.1904489806389
+# current error = 2.17941662835
+# current error = 2.1685742982518
+# current error = 2.157880757852
+# current error = 2.1472992070713
+# current error = 2.1367973329278
+# current error = 2.1263475583112
+# current error = 2.115927094232
+# current error = 2.1055178218999
+# current error = 2.0951056955554
+# current error = 2.0846797622695
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.88
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 80
+# StochasticGradient: training
+# current error = 3.1174656193876
+# current error = 2.7892469399186
+# current error = 2.7088513505855
+# current error = 2.6669876873433
+# current error = 2.6331732014153
+# current error = 2.601369345122
+# current error = 2.5708506680263
+# current error = 2.5385439034922
+# current error = 2.5020623524911
+# current error = 2.4597222090047
+# current error = 2.4119898765829
+# current error = 2.3603031271277
+# current error = 2.3103757084913
+# current error = 2.2633069051901
+# current error = 2.2176992199587
+# current error = 2.175816663528
+# current error = 2.1380319251677
+# current error = 2.1034118147523
+# current error = 2.0688394198978
+# current error = 2.0357116323977
+# current error = 2.0048401344939
+# current error = 1.9739669784985
+# current error = 1.9435629146545
+# current error = 1.9131725492239
+# current error = 1.8819385606341
+# current error = 1.8462231741054
+# current error = 1.8147913520632
+# current error = 1.7868967776277
+# current error = 1.754736212801
+# current error = 1.7048603933853
+# current error = 1.6912218987719
+# current error = 1.6549553820514
+# current error = 1.6375592640445
+# current error = 1.6157464121734
+# current error = 1.59848000834
+# current error = 1.5966485933896
+# current error = 1.5656550166345
+# current error = 1.5368173076718
+# current error = 1.509590322596
+# current error = 1.4913984548097
+# current error = 1.4917096063327
+# current error = 1.4580470506434
+# current error = 1.4187631768984
+# current error = 1.4017519194629
+# current error = 1.3712307230391
+# current error = 1.4212220173866
+# current error = 1.4542550478798
+# current error = 1.4121991790983
+# current error = 1.2998932761366
+# current error = 1.272227806573
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.88
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2933435556038
+# current error = 3.2792464196201
+# current error = 3.2589527962336
+# current error = 3.2411845756355
+# current error = 3.220911108724
+# current error = 3.1906713119986
+# current error = 3.1393698031207
+# current error = 3.0565486662087
+# current error = 2.9502663392494
+# current error = 2.8437812813707
+# current error = 2.7506078278884
+# current error = 2.6727245903086
+# current error = 2.6077095339567
+# current error = 2.5527224914066
+# current error = 2.5055009925539
+# current error = 2.4643835343876
+# current error = 2.4281598425613
+# current error = 2.395930501618
+# current error = 2.3670039760487
+# current error = 2.3408281422073
+# current error = 2.3169476267552
+# current error = 2.2949788324078
+# current error = 2.2745959466496
+# current error = 2.2555227411181
+# current error = 2.2375272292299
+# current error = 2.2204169106816
+# current error = 2.2040340239627
+# current error = 2.1882503911051
+# current error = 2.1729628033479
+# current error = 2.1580882967912
+# current error = 2.1435603616916
+# current error = 2.1293255256919
+# current error = 2.1153403294702
+# current error = 2.1015688729559
+# current error = 2.0879809380607
+# current error = 2.074550217158
+# current error = 2.0612531276651
+# current error = 2.0480679684249
+# current error = 2.034974250314
+# current error = 2.0219522538806
+# current error = 2.0089827901229
+# current error = 1.9960470988817
+# current error = 1.9831266135836
+# current error = 1.9702029732362
+# current error = 1.9572579733826
+# current error = 1.9442734916064
+# current error = 1.9312315466815
+# current error = 1.9181143382175
+# current error = 1.904904280292
+# current error = 1.8915840490331
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.92
+
+ RBF network done. Press enter
+
+
+Taking K value as 16
+Sending data for Whitening
+Calculating Co-Variance X^T X
+Running SVD
+Multiplying U and X
+Normalizing Whitened Data
+# StochasticGradient: training
+# current error = 3.3092399453844
+# current error = 2.8846482523905
+# current error = 2.7823878187352
+# current error = 2.7212851353996
+# current error = 2.6764910973875
+# current error = 2.6411306095838
+# current error = 2.6120942108937
+# current error = 2.5876278143049
+# current error = 2.5666193386565
+# current error = 2.548312178156
+# current error = 2.5321668073604
+# current error = 2.5177853005208
+# current error = 2.5048662256014
+# current error = 2.4931764721778
+# current error = 2.4825321755515
+# current error = 2.4727861307234
+# current error = 2.4638188981168
+# current error = 2.4555324653206
+# current error = 2.4478451296924
+# current error = 2.4406885558194
+# current error = 2.434004885139
+# current error = 2.4277446795441
+# current error = 2.4218656061327
+# current error = 2.4163309936473
+# current error = 2.4111088844666
+# current error = 2.4061714194578
+# current error = 2.4014941368718
+# current error = 2.3970552613012
+# current error = 2.3928357072249
+# current error = 2.3888182473748
+# current error = 2.3849876421626
+# current error = 2.381330173571
+# current error = 2.3778334719045
+# current error = 2.3744863696502
+# current error = 2.3712788566008
+# current error = 2.3682017241919
+# current error = 2.3652465918098
+# current error = 2.3624059147705
+# current error = 2.3596726899866
+# current error = 2.3570405085742
+# current error = 2.3545035500764
+# current error = 2.3520563290155
+# current error = 2.3496939460148
+# current error = 2.3474117852761
+# current error = 2.3452055385602
+# current error = 2.3430713428746
+# current error = 2.3410055005303
+# current error = 2.3390045319026
+# current error = 2.3370653080052
+# current error = 2.3351848722186
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.9
+
+ Logistic Done, Press Enter
+
+
+
+ Taking Hidden Units Value as 10
+# StochasticGradient: training
+# current error = 3.0472646549772
+# current error = 2.6809550691387
+# current error = 2.5597754083591
+# current error = 2.4711227278636
+# current error = 2.3918935814459
+# current error = 2.3256138051908
+# current error = 2.2560944213891
+# current error = 2.2005775127435
+# current error = 2.1591112864287
+# current error = 2.1245734531252
+# current error = 2.0993371623757
+# current error = 2.0718016039124
+# current error = 2.0405920448689
+# current error = 2.0068256135929
+# current error = 1.9768613604459
+# current error = 1.9578523892757
+# current error = 1.9575807041682
+# current error = 1.9329025899964
+# current error = 1.9028738970833
+# current error = 1.8991257979822
+# current error = 1.8821856425307
+# current error = 1.8748836869979
+# current error = 1.8563337013277
+# current error = 1.845958036377
+# current error = 1.8297128361805
+# current error = 1.827148656268
+# current error = 1.8059385745934
+# current error = 1.7975621724846
+# current error = 1.7957491979112
+# current error = 1.789854571399
+# current error = 1.791223626793
+# current error = 1.779904499266
+# current error = 1.7817273323004
+# current error = 1.7566277136358
+# current error = 1.7480352860998
+# current error = 1.7678212275955
+# current error = 1.7485186084522
+# current error = 1.7483266440157
+# current error = 1.7312928728332
+# current error = 1.7152071682395
+# current error = 1.7224687924616
+# current error = 1.7176042368494
+# current error = 1.6967974692929
+# current error = 1.7153168429363
+# current error = 1.7029597639245
+# current error = 1.7015511036197
+# current error = 1.6899731466266
+# current error = 1.703564540335
+# current error = 1.6965524862668
+# current error = 1.6829684660248
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.9
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.3014486745511
+# current error = 3.2977139320153
+# current error = 3.298082577663
+# current error = 3.2982269257183
+# current error = 3.2982626208906
+# current error = 3.2982703712827
+# current error = 3.2982714988192
+# current error = 3.2982710933999
+# current error = 3.2982703509144
+# current error = 3.2982695508343
+# current error = 3.2982687567764
+# current error = 3.2982679813953
+# current error = 3.2982672253885
+# current error = 3.298266486758
+# current error = 3.2982657630028
+# current error = 3.2982650516227
+# current error = 3.2982643502205
+# current error = 3.2982636565071
+# current error = 3.2982629682867
+# current error = 3.2982622834368
+# current error = 3.2982615998898
+# current error = 3.2982609156139
+# current error = 3.2982602285959
+# current error = 3.2982595368236
+# current error = 3.2982588382691
+# current error = 3.2982581308713
+# current error = 3.2982574125188
+# current error = 3.2982566810315
+# current error = 3.2982559341415
+# current error = 3.2982551694725
+# current error = 3.2982543845179
+# current error = 3.2982535766163
+# current error = 3.2982527429246
+# current error = 3.2982518803884
+# current error = 3.2982509857077
+# current error = 3.2982500552991
+# current error = 3.2982490852517
+# current error = 3.298248071277
+# current error = 3.2982470086506
+# current error = 3.298245892145
+# current error = 3.2982447159497
+# current error = 3.2982434735793
+# current error = 3.298242157763
+# current error = 3.2982407603142
+# current error = 3.298239271975
+# current error = 3.2982376822286
+# current error = 3.2982359790735
+# current error = 3.2982341487482
+# current error = 3.2982321753953
+# current error = 3.2982300406472
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 20
+# StochasticGradient: training
+# current error = 3.0089202886089
+# current error = 2.668924787488
+# current error = 2.5482112074457
+# current error = 2.423364751347
+# current error = 2.3009379632392
+# current error = 2.1800881829743
+# current error = 2.0746872178649
+# current error = 1.970767344551
+# current error = 1.8654030778289
+# current error = 1.7806072070125
+# current error = 1.7042133116712
+# current error = 1.6240453957573
+# current error = 1.5627341575772
+# current error = 1.4836515710734
+# current error = 1.4074217890001
+# current error = 1.3513644911143
+# current error = 1.2665421774504
+# current error = 1.226592412162
+# current error = 1.209379584348
+# current error = 1.1747023644294
+# current error = 1.1339740392125
+# current error = 1.1129023521037
+# current error = 1.1101045109552
+# current error = 1.0726845726811
+# current error = 0.97497860987456
+# current error = 0.91191092799076
+# current error = 0.87814337699718
+# current error = 0.85277685721791
+# current error = 0.83711542216685
+# current error = 0.85130669975487
+# current error = 0.77406256443363
+# current error = 0.76070047610096
+# current error = 0.6976370193499
+# current error = 0.82324251677483
+# current error = 0.79448873673138
+# current error = 0.74120540429434
+# current error = 0.7325772689699
+# current error = 0.63950356289152
+# current error = 0.5638687240882
+# current error = 0.53763849310619
+# current error = 0.57145369507175
+# current error = 0.57923719710325
+# current error = 0.55825847262741
+# current error = 0.54336338335552
+# current error = 0.54726455411536
+# current error = 0.49174990834895
+# current error = 0.54758663357259
+# current error = 0.68886118291656
+# current error = 0.76687143102534
+# current error = 0.78856992389627
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.88
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.297421231836
+# current error = 3.2976146558865
+# current error = 3.298159883783
+# current error = 3.2983004379638
+# current error = 3.2983319303722
+# current error = 3.2983388490419
+# current error = 3.2983403718679
+# current error = 3.2983407074943
+# current error = 3.2983407797755
+# current error = 3.298340793083
+# current error = 3.2983407930586
+# current error = 3.2983407899962
+# current error = 3.29834078624
+# current error = 3.2983407823287
+# current error = 3.2983407783872
+# current error = 3.2983407744446
+# current error = 3.2983407705075
+# current error = 3.2983407665775
+# current error = 3.2983407626548
+# current error = 3.2983407587393
+# current error = 3.2983407548309
+# current error = 3.2983407509294
+# current error = 3.2983407470348
+# current error = 3.2983407431468
+# current error = 3.2983407392653
+# current error = 3.2983407353902
+# current error = 3.2983407315212
+# current error = 3.2983407276584
+# current error = 3.2983407238015
+# current error = 3.2983407199503
+# current error = 3.2983407161048
+# current error = 3.2983407122648
+# current error = 3.2983407084301
+# current error = 3.2983407046006
+# current error = 3.2983407007762
+# current error = 3.2983406969566
+# current error = 3.2983406931419
+# current error = 3.2983406893318
+# current error = 3.2983406855262
+# current error = 3.2983406817249
+# current error = 3.2983406779279
+# current error = 3.298340674135
+# current error = 3.2983406703459
+# current error = 3.2983406665607
+# current error = 3.2983406627792
+# current error = 3.2983406590011
+# current error = 3.2983406552265
+# current error = 3.2983406514551
+# current error = 3.2983406476868
+# current error = 3.2983406439215
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 40
+# StochasticGradient: training
+# current error = 3.1153920513882
+# current error = 2.8183337133954
+# current error = 2.7471777097001
+# current error = 2.6622283060668
+# current error = 2.5465952100498
+# current error = 2.3951650727353
+# current error = 2.2089725727021
+# current error = 1.9935399903498
+# current error = 1.7809699747139
+# current error = 1.5601969969464
+# current error = 1.3661219337155
+# current error = 1.1402712761132
+# current error = 0.93126761354499
+# current error = 0.76923250228523
+# current error = 0.60819876208001
+# current error = 0.44893754490617
+# current error = 0.2974376396144
+# current error = 0.1939894177263
+# current error = 0.13515746471142
+# current error = 0.097768138376636
+# current error = 0.079719364245278
+# current error = 0.068973399653625
+# current error = 0.06133822082691
+# current error = 0.055530075450141
+# current error = 0.0508837156389
+# current error = 0.047051598325626
+# current error = 0.043820453397597
+# current error = 0.041049002833156
+# current error = 0.038638995194075
+# current error = 0.036519466242786
+# current error = 0.03463764176277
+# current error = 0.032953368275549
+# current error = 0.031435312622924
+# current error = 0.030058904373286
+# current error = 0.028804185628753
+# current error = 0.027654984177929
+# current error = 0.026598023260802
+# current error = 0.025622173536602
+# current error = 0.024718090161615
+# current error = 0.023877876954345
+# current error = 0.023094799882555
+# current error = 0.022363040438588
+# current error = 0.021677605172539
+# current error = 0.021034048954785
+# current error = 0.020428578651319
+# current error = 0.019857783312018
+# current error = 0.019318732796146
+# current error = 0.018808831643198
+# current error = 0.018325632671595
+# current error = 0.017867124944636
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.94
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2979890761351
+# current error = 3.2983674032699
+# current error = 3.2987810187746
+# current error = 3.298432410109
+# current error = 3.2971076111099
+# current error = 3.2938725445779
+# current error = 3.2901371735756
+# current error = 3.2864118761086
+# current error = 3.282936806201
+# current error = 3.2796942779607
+# current error = 3.2764748541132
+# current error = 3.273008298794
+# current error = 3.2689573357083
+# current error = 3.2638600434526
+# current error = 3.2570199575979
+# current error = 3.2473372041564
+# current error = 3.2331400617729
+# current error = 3.2122532358792
+# current error = 3.1825475639062
+# current error = 3.142701489866
+# current error = 3.0930602634411
+# current error = 3.0362362681287
+# current error = 2.9763203463252
+# current error = 2.9171434786335
+# current error = 2.861148267607
+# current error = 2.8093682018481
+# current error = 2.761930138399
+# current error = 2.7185347935765
+# current error = 2.6787500055118
+# current error = 2.6421484234218
+# current error = 2.6083557689262
+# current error = 2.5770574590753
+# current error = 2.5479900062628
+# current error = 2.5209293626502
+# current error = 2.4956808958899
+# current error = 2.4720723061646
+# current error = 2.4499490101372
+# current error = 2.4291713015594
+# current error = 2.4096126154324
+# current error = 2.3911584935326
+# current error = 2.373705667116
+# current error = 2.3571613261444
+# current error = 2.3414423131595
+# current error = 2.3264743798372
+# current error = 2.3121913789009
+# current error = 2.2985344716483
+# current error = 2.2854513678128
+# current error = 2.2728956659484
+# current error = 2.260826095349
+# current error = 2.2492059650577
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.9
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 80
+# StochasticGradient: training
+# current error = 3.2234275318089
+# current error = 2.9577886663395
+# current error = 2.8852019608593
+# current error = 2.8071366833768
+# current error = 2.6980336397262
+# current error = 2.5604111622902
+# current error = 2.3826717840555
+# current error = 2.1915349662878
+# current error = 2.0061712828401
+# current error = 1.8301836676531
+# current error = 1.5945164131617
+# current error = 1.3552933168504
+# current error = 1.0843089835907
+# current error = 0.85798266744754
+# current error = 0.62375905106843
+# current error = 0.43206737671832
+# current error = 0.2652144699371
+# current error = 0.15884364837459
+# current error = 0.10353690635521
+# current error = 0.076040046145855
+# current error = 0.06189565123397
+# current error = 0.053532727553936
+# current error = 0.047663500607807
+# current error = 0.043203719106938
+# current error = 0.039648888714317
+# current error = 0.036720164932443
+# current error = 0.034249471189393
+# current error = 0.032127555044683
+# current error = 0.030279246247523
+# current error = 0.028650904929329
+# current error = 0.027202749685416
+# current error = 0.025904507820165
+# current error = 0.024732749890797
+# current error = 0.023668856114568
+# current error = 0.022697852296261
+# current error = 0.021807533503154
+# current error = 0.02098763404275
+# current error = 0.020229894991238
+# current error = 0.019527321748136
+# current error = 0.018873720362991
+# current error = 0.018264033650179
+# current error = 0.017693863366639
+# current error = 0.017159273211702
+# current error = 0.01665701447286
+# current error = 0.016184138774247
+# current error = 0.015738095746255
+# current error = 0.01531648546371
+# current error = 0.014917448405012
+# current error = 0.014539058159946
+# current error = 0.014179774886269
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.92
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2942786661462
+# current error = 3.2961967265414
+# current error = 3.2970457015998
+# current error = 3.2972483318391
+# current error = 3.297293020915
+# current error = 3.2973027559184
+# current error = 3.2973048542184
+# current error = 3.2973052771429
+# current error = 3.2973053297181
+# current error = 3.297305299885
+# current error = 3.2973052517391
+# current error = 3.2973051996674
+# current error = 3.2973051469158
+# current error = 3.2973050942097
+# current error = 3.2973050416998
+# current error = 3.2973049894045
+# current error = 3.2973049373117
+# current error = 3.2973048854022
+# current error = 3.2973048336557
+# current error = 3.2973047820511
+# current error = 3.2973047305679
+# current error = 3.2973046791852
+# current error = 3.2973046278825
+# current error = 3.2973045766394
+# current error = 3.2973045254352
+# current error = 3.2973044742496
+# current error = 3.297304423062
+# current error = 3.297304371852
+# current error = 3.297304320599
+# current error = 3.2973042692823
+# current error = 3.2973042178811
+# current error = 3.2973041663747
+# current error = 3.2973041147418
+# current error = 3.2973040629614
+# current error = 3.2973040110119
+# current error = 3.2973039588717
+# current error = 3.2973039065188
+# current error = 3.297303853931
+# current error = 3.2973038010858
+# current error = 3.2973037479601
+# current error = 3.2973036945308
+# current error = 3.297303640774
+# current error = 3.2973035866656
+# current error = 3.2973035321811
+# current error = 3.2973034772951
+# current error = 3.297303421982
+# current error = 3.2973033662155
+# current error = 3.2973033099685
+# current error = 3.2973032532136
+# current error = 3.2973031959223
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+Taking K value as 32
+Sending data for Whitening
+Calculating Co-Variance X^T X
+Running SVD
+Multiplying U and X
+Normalizing Whitened Data
+# StochasticGradient: training
+# current error = 3.5402932358939
+# current error = 2.9889288531222
+# current error = 2.8318056416234
+# current error = 2.7328036029328
+# current error = 2.6607732150402
+# current error = 2.6042182137809
+# current error = 2.557444880314
+# current error = 2.5174438198284
+# current error = 2.4824622600923
+# current error = 2.4513794008115
+# current error = 2.423425386821
+# current error = 2.3980421941749
+# current error = 2.3748089742081
+# current error = 2.3533996846711
+# current error = 2.3335564995771
+# current error = 2.31507201759
+# current error = 2.2977773801434
+# current error = 2.2815329957694
+# current error = 2.2662227662902
+# current error = 2.2517485923838
+# current error = 2.2380272764449
+# current error = 2.2249874167403
+# current error = 2.212567283222
+# current error = 2.2007132413517
+# current error = 2.1893783087008
+# current error = 2.1785210538312
+# current error = 2.1681048529127
+# current error = 2.1580969486815
+# current error = 2.1484682544264
+# current error = 2.1391923976907
+# current error = 2.1302458606775
+# current error = 2.1216070348882
+# current error = 2.1132566231928
+# current error = 2.1051766776127
+# current error = 2.0973511132193
+# current error = 2.0897649543254
+# current error = 2.0824046220354
+# current error = 2.075257478188
+# current error = 2.0683119218185
+# current error = 2.0615572336487
+# current error = 2.0549834408731
+# current error = 2.0485813019851
+# current error = 2.0423422811014
+# current error = 2.036258323992
+# current error = 2.0303219545428
+# current error = 2.0245263700008
+# current error = 2.0188649160585
+# current error = 2.0133315465744
+# current error = 2.0079205676963
+# current error = 2.0026265588334
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.84
+
+ Logistic Done, Press Enter
+
+
+
+ Taking Hidden Units Value as 10
+# StochasticGradient: training
+# current error = 3.041827678464
+# current error = 2.6366494085403
+# current error = 2.4728323489885
+# current error = 2.3424047677843
+# current error = 2.217223840872
+# current error = 2.1592490897589
+# current error = 2.0725946540037
+# current error = 2.0052944390259
+# current error = 1.9787684560842
+# current error = 1.8514852562369
+# current error = 1.780634117994
+# current error = 1.7689053599918
+# current error = 1.7253622271269
+# current error = 1.7281363996686
+# current error = 1.6683873344867
+# current error = 1.6185516737169
+# current error = 1.6508820781654
+# current error = 1.6678845250411
+# current error = 1.620012285721
+# current error = 1.6003272219006
+# current error = 1.5457549647059
+# current error = 1.539345814854
+# current error = 1.4897408575267
+# current error = 1.5277007884363
+# current error = 1.5254897269307
+# current error = 1.5852393042759
+# current error = 1.4259904281739
+# current error = 1.3767266699767
+# current error = 1.3338928976196
+# current error = 1.3866032364914
+# current error = 1.5559139834908
+# current error = 1.3645504803181
+# current error = 1.2903162268332
+# current error = 1.246680614269
+# current error = 1.2436206136327
+# current error = 1.2467986236206
+# current error = 1.2574866110186
+# current error = 1.2867853955365
+# current error = 1.3108962603601
+# current error = 1.3087954552541
+# current error = 1.3036821708557
+# current error = 1.2736613228227
+# current error = 1.1743445887715
+# current error = 1.1706954240341
+# current error = 1.1562623935628
+# current error = 1.1717397257019
+# current error = 1.134831221562
+# current error = 1.1909442865854
+# current error = 1.2865382367515
+# current error = 1.2298095771774
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.88
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.3013251278996
+# current error = 3.29843069945
+# current error = 3.2992148348129
+# current error = 3.2994632169729
+# current error = 3.2995243089989
+# current error = 3.2995387888741
+# current error = 3.2995422103818
+# current error = 3.299543021559
+# current error = 3.2995432146961
+# current error = 3.2995432608678
+# current error = 3.2995432719459
+# current error = 3.2995432746123
+# current error = 3.2995432752559
+# current error = 3.2995432754116
+# current error = 3.2995432754493
+# current error = 3.2995432754585
+# current error = 3.2995432754607
+# current error = 3.2995432754613
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# current error = 3.2995432754614
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 20
+# StochasticGradient: training
+# current error = 3.0754298265801
+# current error = 2.6457849276084
+# current error = 2.4115551693283
+# current error = 2.1773437458599
+# current error = 1.934019880688
+# current error = 1.711183964761
+# current error = 1.5705146430935
+# current error = 1.4193156218504
+# current error = 1.2736902032485
+# current error = 1.1199015873059
+# current error = 1.09376930482
+# current error = 0.94802494102014
+# current error = 0.8839277211021
+# current error = 0.89663928911444
+# current error = 0.81494538303679
+# current error = 0.69619602943952
+# current error = 0.58013487355093
+# current error = 0.4464651388508
+# current error = 0.41264424041488
+# current error = 0.31524631755177
+# current error = 0.25350935361994
+# current error = 0.20217666864272
+# current error = 0.1596851443129
+# current error = 0.138195326786
+# current error = 0.11852027550942
+# current error = 0.10675983407452
+# current error = 0.097109777856805
+# current error = 0.089970725782587
+# current error = 0.083781893282759
+# current error = 0.078617188401069
+# current error = 0.074058223202887
+# current error = 0.070001983085652
+# current error = 0.066440140069884
+# current error = 0.063155273692365
+# current error = 0.060278132862737
+# current error = 0.057565720587028
+# current error = 0.055175359583023
+# current error = 0.052892331516097
+# current error = 0.05086076847935
+# current error = 0.048901773214961
+# current error = 0.047135055961018
+# current error = 0.045420643944411
+# current error = 0.043877150647438
+# current error = 0.042395751094989
+# current error = 0.04105915545549
+# current error = 0.03977441728411
+# current error = 0.038599575516329
+# current error = 0.037471062280366
+# current error = 0.036428013748849
+# current error = 0.035427631126258
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.88
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2960706224442
+# current error = 3.2965328957146
+# current error = 3.2976148338892
+# current error = 3.2978987447349
+# current error = 3.2979638470933
+# current error = 3.2979784967125
+# current error = 3.2979818037644
+# current error = 3.2979825562052
+# current error = 3.297982728895
+# current error = 3.2979827688654
+# current error = 3.2979827781908
+# current error = 3.2979827803824
+# current error = 3.2979827809009
+# current error = 3.2979827810243
+# current error = 3.2979827810538
+# current error = 3.2979827810609
+# current error = 3.2979827810626
+# current error = 3.2979827810631
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# current error = 3.2979827810632
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 40
+# StochasticGradient: training
+# current error = 3.1998837515986
+# current error = 2.8151899571995
+# current error = 2.5658554366556
+# current error = 2.215895303694
+# current error = 1.8601905282316
+# current error = 1.4506570114646
+# current error = 1.0030660230973
+# current error = 0.64393327035181
+# current error = 0.30864034085003
+# current error = 0.14738734526349
+# current error = 0.066617160360789
+# current error = 0.048366972727543
+# current error = 0.040485976012572
+# current error = 0.035377913574815
+# current error = 0.031587352220641
+# current error = 0.028615285522651
+# current error = 0.026201648616176
+# current error = 0.024192339596336
+# current error = 0.022488123853644
+# current error = 0.021020963792424
+# current error = 0.019742472692642
+# current error = 0.018616860025008
+# current error = 0.017617417633684
+# current error = 0.016723178907967
+# current error = 0.015918189729753
+# current error = 0.015189074652502
+# current error = 0.014525502197702
+# current error = 0.013918775847197
+# current error = 0.013361709250064
+# current error = 0.012848435154418
+# current error = 0.012373731408319
+# current error = 0.011933457231347
+# current error = 0.011523933891024
+# current error = 0.011142058326821
+# current error = 0.010784970354472
+# current error = 0.01045026869005
+# current error = 0.010135869661522
+# current error = 0.0098401503273924
+# current error = 0.0095613249541273
+# current error = 0.0092979524164368
+# current error = 0.009048810158494
+# current error = 0.0088128106511435
+# current error = 0.0085888396253296
+# current error = 0.0083760707743211
+# current error = 0.0081735720814064
+# current error = 0.0079807037234657
+# current error = 0.007796838386973
+# current error = 0.0076212384596902
+# current error = 0.0074533995404735
+# current error = 0.0072927756682186
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.94
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2927011508562
+# current error = 3.2952595014939
+# current error = 3.2966312245345
+# current error = 3.2969644893748
+# current error = 3.2970384420888
+# current error = 3.2970546603868
+# current error = 3.2970582304161
+# current error = 3.2970590218839
+# current error = 3.297059198739
+# current error = 3.2970592385734
+# current error = 3.2970592476158
+# current error = 3.2970592496839
+# current error = 3.2970592501602
+# current error = 3.2970592502707
+# current error = 3.2970592502965
+# current error = 3.2970592503025
+# current error = 3.2970592503039
+# current error = 3.2970592503043
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# current error = 3.2970592503044
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 80
+# StochasticGradient: training
+# current error = 3.3676330783274
+# current error = 3.2068623661996
+# current error = 3.1013700998754
+# current error = 2.8298152499573
+# current error = 2.2832043139512
+# current error = 1.5447553960711
+# current error = 0.98269166203363
+# current error = 0.42786433646684
+# current error = 0.098791095993129
+# current error = 0.025196142127661
+# current error = 0.01240309969238
+# current error = 0.0091993401925839
+# current error = 0.0080464656098203
+# current error = 0.0072402500723301
+# current error = 0.006628060378977
+# current error = 0.006140016572984
+# current error = 0.0057378632860625
+# current error = 0.0053985456240841
+# current error = 0.0051068753162028
+# current error = 0.0048524263415318
+# current error = 0.0046279416481019
+# current error = 0.004427807813131
+# current error = 0.004247951972891
+# current error = 0.0040850900732262
+# current error = 0.003936756131988
+# current error = 0.0038008172685373
+# current error = 0.0036757326827967
+# current error = 0.0035600535799374
+# current error = 0.003452695841367
+# current error = 0.0033526795692591
+# current error = 0.003259247568834
+# current error = 0.0031717097733709
+# current error = 0.0030894246985705
+# current error = 0.0030120020151778
+# current error = 0.0029389760313761
+# current error = 0.0028698402945143
+# current error = 0.0028043220940368
+# current error = 0.0027421645028712
+# current error = 0.0026830274738941
+# current error = 0.0026267605801999
+# current error = 0.0025730991987731
+# current error = 0.0025218529196781
+# current error = 0.0024728590542313
+# current error = 0.0024259478035924
+# current error = 0.0023810128590866
+# current error = 0.0023378779370144
+# current error = 0.002296448149733
+# current error = 0.0022566525800665
+# current error = 0.0022183368826808
+# current error = 0.0021813918910805
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.9
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2984097530079
+# current error = 3.2986713331343
+# current error = 3.2989794384379
+# current error = 3.2990564209095
+# current error = 3.2990733563124
+# current error = 3.2990770190101
+# current error = 3.2990778160336
+# current error = 3.2990779916014
+# current error = 3.2990780308218
+# current error = 3.2990780397109
+# current error = 3.2990780417543
+# current error = 3.2990780422303
+# current error = 3.2990780423426
+# current error = 3.2990780423694
+# current error = 3.2990780423758
+# current error = 3.2990780423774
+# current error = 3.2990780423778
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# current error = 3.2990780423779
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+Taking K value as 64
+Sending data for Whitening
+Calculating Co-Variance X^T X
+Running SVD
+Multiplying U and X
+Normalizing Whitened Data
+# StochasticGradient: training
+# current error = 4.2124113312491
+# current error = 3.1000097473915
+# current error = 2.4446921093468
+# current error = 1.9265691577458
+# current error = 1.5028720484099
+# current error = 1.1904085932494
+# current error = 0.91599658745137
+# current error = 0.66154353126469
+# current error = 0.48501832531775
+# current error = 0.35704757980512
+# current error = 0.26645578785353
+# current error = 0.20058082840997
+# current error = 0.14877175058663
+# current error = 0.12088040017082
+# current error = 0.10585227558208
+# current error = 0.096253671760621
+# current error = 0.088873312190456
+# current error = 0.082790816936724
+# current error = 0.077716275297537
+# current error = 0.073365773476113
+# current error = 0.069581326773859
+# current error = 0.066246348865999
+# current error = 0.06327697372261
+# current error = 0.060610171789466
+# current error = 0.058197410393854
+# current error = 0.056000751278181
+# current error = 0.053989756141605
+# current error = 0.052139799352483
+# current error = 0.05043067612456
+# current error = 0.048845628842651
+# current error = 0.04737047760005
+# current error = 0.045993370826831
+# current error = 0.04470416243887
+# current error = 0.043493955915144
+# current error = 0.042355310866631
+# current error = 0.041281660053941
+# current error = 0.040267195379972
+# current error = 0.039306802411091
+# current error = 0.038396001342168
+# current error = 0.037530771643188
+# current error = 0.036707630436148
+# current error = 0.035923428515826
+# current error = 0.035175224537236
+# current error = 0.034460590806425
+# current error = 0.03377712825946
+# current error = 0.033122668366096
+# current error = 0.032495312010696
+# current error = 0.031893345560871
+# current error = 0.03131516582619
+# current error = 0.03075936855187
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.9
+
+ Logistic Done, Press Enter
+
+
+
+ Taking Hidden Units Value as 10
+# StochasticGradient: training
+# current error = 3.2296537054122
+# current error = 2.6987795541745
+# current error = 2.4232967999689
+# current error = 2.2512218130919
+# current error = 2.0756161928309
+# current error = 1.9023818327989
+# current error = 1.7649766166832
+# current error = 1.6420657144773
+# current error = 1.5164217166686
+# current error = 1.5862999882999
+# current error = 1.4960300049406
+# current error = 1.4153919112253
+# current error = 1.3075268014819
+# current error = 1.3582064326481
+# current error = 1.3972630894663
+# current error = 1.4071398045296
+# current error = 1.3852019453602
+# current error = 1.3647921786748
+# current error = 1.3521985605901
+# current error = 1.401768310723
+# current error = 1.3980711471532
+# current error = 1.2972485737297
+# current error = 1.2042751681865
+# current error = 1.1332038003307
+# current error = 1.1256734794221
+# current error = 1.0656923718196
+# current error = 0.97472849166901
+# current error = 0.94338540113756
+# current error = 0.91816745849192
+# current error = 0.91721974550811
+# current error = 0.90280351353709
+# current error = 0.82946808562062
+# current error = 0.91452998206113
+# current error = 0.92539644202124
+# current error = 0.909852411548
+# current error = 0.89924909507778
+# current error = 0.94240901761374
+# current error = 0.91985370344075
+# current error = 0.86291514025503
+# current error = 0.92953095432342
+# current error = 0.84166009825929
+# current error = 0.8151957014556
+# current error = 0.77271813244089
+# current error = 0.77574693725374
+# current error = 0.76597715164781
+# current error = 0.81017527208465
+# current error = 0.86003219219474
+# current error = 1.2673996620237
+# current error = 1.4074204029407
+# current error = 1.369334771665
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.3023065072733
+# current error = 3.298057538967
+# current error = 3.2985922116039
+# current error = 3.298788575368
+# current error = 3.2988368504919
+# current error = 3.2988480768257
+# current error = 3.2988506728928
+# current error = 3.2988512755217
+# current error = 3.298851416167
+# current error = 3.2988514491669
+# current error = 3.2988514569479
+# current error = 3.2988514587908
+# current error = 3.298851459229
+# current error = 3.2988514593335
+# current error = 3.2988514593585
+# current error = 3.2988514593646
+# current error = 3.298851459366
+# current error = 3.2988514593664
+# current error = 3.2988514593664
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# current error = 3.2988514593665
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 20
+# StochasticGradient: training
+# current error = 3.1576250785581
+# current error = 2.6035623400614
+# current error = 2.1521123772485
+# current error = 1.8342451134158
+# current error = 1.5693191265985
+# current error = 1.2508428872729
+# current error = 1.1326235441538
+# current error = 0.9468585441693
+# current error = 0.76444265745103
+# current error = 0.63236471765713
+# current error = 0.48531068833898
+# current error = 0.44899147325182
+# current error = 0.33754249309717
+# current error = 0.22121324829841
+# current error = 0.13583691472591
+# current error = 0.098141092626898
+# current error = 0.080028055464898
+# current error = 0.068992996068931
+# current error = 0.059974436131135
+# current error = 0.053372596645506
+# current error = 0.048184015044952
+# current error = 0.044118827238163
+# current error = 0.040785008109611
+# current error = 0.037959590212919
+# current error = 0.035512068795077
+# current error = 0.033383104537683
+# current error = 0.031506759029565
+# current error = 0.029830235208586
+# current error = 0.028323868452817
+# current error = 0.026972035162286
+# current error = 0.025754819129101
+# current error = 0.024641975498962
+# current error = 0.023613249479349
+# current error = 0.022669929074503
+# current error = 0.021810771047733
+# current error = 0.021020575365372
+# current error = 0.020288244585254
+# current error = 0.019606609185601
+# current error = 0.018970785242555
+# current error = 0.018376178561897
+# current error = 0.017817671123524
+# current error = 0.017289904393055
+# current error = 0.016788698037438
+# current error = 0.016312639396302
+# current error = 0.015864448217706
+# current error = 0.015446003126485
+# current error = 0.015053752783894
+# current error = 0.014683247725049
+# current error = 0.014331952311135
+# current error = 0.013998416416646
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.92
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2968176961672
+# current error = 3.2968203514601
+# current error = 3.2975999981864
+# current error = 3.2978016524306
+# current error = 3.2978464025462
+# current error = 3.2978561091266
+# current error = 3.2978582173042
+# current error = 3.2978586782441
+# current error = 3.2978587798377
+# current error = 3.2978588024184
+# current error = 3.2978588074799
+# current error = 3.2978588086239
+# current error = 3.2978588088845
+# current error = 3.2978588089444
+# current error = 3.2978588089582
+# current error = 3.2978588089614
+# current error = 3.2978588089622
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# current error = 3.2978588089624
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 40
+# StochasticGradient: training
+# current error = 3.2725179476814
+# current error = 2.7411744918492
+# current error = 2.2049752829844
+# current error = 1.4985671282795
+# current error = 0.84091697754143
+# current error = 0.32559307194937
+# current error = 0.10038010292611
+# current error = 0.04344517026363
+# current error = 0.030860756907062
+# current error = 0.025279318418003
+# current error = 0.021688344247686
+# current error = 0.019082330436421
+# current error = 0.01708951396714
+# current error = 0.015504184312261
+# current error = 0.014205929259472
+# current error = 0.013119282514667
+# current error = 0.012194367536297
+# current error = 0.011396003720236
+# current error = 0.010698966626291
+# current error = 0.010084488857822
+# current error = 0.0095383303683871
+# current error = 0.0090494591808587
+# current error = 0.0086092696275896
+# current error = 0.008210415596916
+# current error = 0.0078475338440793
+# current error = 0.0075157076927862
+# current error = 0.0072110606388557
+# current error = 0.0069303479286262
+# current error = 0.0066708481499608
+# current error = 0.0064300345117437
+# current error = 0.0062059902012119
+# current error = 0.0059969167781022
+# current error = 0.0058013239900821
+# current error = 0.0056178870038858
+# current error = 0.0054454797110978
+# current error = 0.0052832211474139
+# current error = 0.0051301081259019
+# current error = 0.0049854766235149
+# current error = 0.0048486424435935
+# current error = 0.0047189275685313
+# current error = 0.0045959018023068
+# current error = 0.0044790449945404
+# current error = 0.0043679062933491
+# current error = 0.0042621160335243
+# current error = 0.0041612327512703
+# current error = 0.0040650576973741
+# current error = 0.0039731288985046
+# current error = 0.0038853002191522
+# current error = 0.0038012137839677
+# current error = 0.0037207988831373
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.9
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2965661280503
+# current error = 3.2977881406495
+# current error = 3.2985547482347
+# current error = 3.2987510899922
+# current error = 3.2987969095503
+# current error = 3.298807470652
+# current error = 3.2988099128487
+# current error = 3.2988104811764
+# current error = 3.2988106143042
+# current error = 3.2988106456805
+# current error = 3.2988106531166
+# current error = 3.2988106548876
+# current error = 3.2988106553112
+# current error = 3.298810655413
+# current error = 3.2988106554375
+# current error = 3.2988106554434
+# current error = 3.2988106554448
+# current error = 3.2988106554452
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# current error = 3.2988106554453
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 80
+# StochasticGradient: training
+# current error = 3.5670633665583
+# current error = 3.3617708556242
+# current error = 2.8099537197855
+# current error = 2.023209993361
+# current error = 0.91995866919454
+# current error = 0.2542718742877
+# current error = 0.040120796919426
+# current error = 0.0076781703537474
+# current error = 0.0059623449287901
+# current error = 0.0050836832725138
+# current error = 0.0044885694202212
+# current error = 0.0040472626676303
+# current error = 0.0037021174997189
+# current error = 0.0034224130785195
+# current error = 0.0031896900162583
+# current error = 0.0029922357900342
+# current error = 0.0028218693219519
+# current error = 0.0026730515983037
+# current error = 0.0025416342581723
+# current error = 0.002424568045841
+# current error = 0.0023194565072332
+# current error = 0.0022244554185753
+# current error = 0.0021380433421181
+# current error = 0.0020589962208054
+# current error = 0.0019864582621087
+# current error = 0.0019194915422819
+# current error = 0.0018574844248256
+# current error = 0.0017998584248814
+# current error = 0.0017461755132762
+# current error = 0.0016959377116899
+# current error = 0.0016488350748881
+# current error = 0.0016046191936494
+# current error = 0.0015630024087201
+# current error = 0.0015237717387877
+# current error = 0.0014867073855197
+# current error = 0.0014515059505512
+# current error = 0.0014181748727366
+# current error = 0.001386507822458
+# current error = 0.0013563154578991
+# current error = 0.0013275879641339
+# current error = 0.0013002137587984
+# current error = 0.0012739757836109
+# current error = 0.0012488618963909
+# current error = 0.0012248649792373
+# current error = 0.0012018309559839
+# current error = 0.0011797455089259
+# current error = 0.0011585161778208
+# current error = 0.001138117794637
+# current error = 0.0011184739944885
+# current error = 0.0010995618431959
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.94
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2965812081385
+# current error = 3.2978136227535
+# current error = 3.2985873703524
+# current error = 3.2987746924737
+# current error = 3.2988154563284
+# current error = 3.2988241859528
+# current error = 3.2988260597453
+# current error = 3.2988264646737
+# current error = 3.2988265528895
+# current error = 3.2988265722744
+# current error = 3.2988265765721
+# current error = 3.2988265775334
+# current error = 3.2988265777504
+# current error = 3.2988265777998
+# current error = 3.2988265778111
+# current error = 3.2988265778137
+# current error = 3.2988265778143
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# current error = 3.2988265778145
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+Taking K value as 128
+Sending data for Whitening
+Calculating Co-Variance X^T X
+Running SVD
+Multiplying U and X
+Normalizing Whitened Data
+# StochasticGradient: training
+# current error = 5.4400925219894
+# current error = 2.4560538813589
+# current error = 0.4975165553865
+# current error = 0.045722609043936
+# current error = 0.0094294038029832
+# current error = 0.0074826443535146
+# current error = 0.0064418512727412
+# current error = 0.0057383605793962
+# current error = 0.0052183574741941
+# current error = 0.004812703211416
+# current error = 0.0044843443346293
+# current error = 0.0042112820645003
+# current error = 0.0039795198612114
+# current error = 0.0037795782204015
+# current error = 0.003604642882396
+# current error = 0.0034499785852455
+# current error = 0.0033120064277382
+# current error = 0.003187848165919
+# current error = 0.0030754008294697
+# current error = 0.0029729115000986
+# current error = 0.002879005886664
+# current error = 0.0027925714954574
+# current error = 0.0027126955611109
+# current error = 0.0026385609282307
+# current error = 0.0025695853846101
+# current error = 0.0025050965625756
+# current error = 0.0024447184040752
+# current error = 0.0023879809680027
+# current error = 0.0023345813152034
+# current error = 0.0022841697071403
+# current error = 0.0022364921260756
+# current error = 0.0021913395388628
+# current error = 0.002148489616485
+# current error = 0.0021077094172353
+# current error = 0.0020689370102142
+# current error = 0.0020319462569945
+# current error = 0.0019966607523522
+# current error = 0.0019628974161424
+# current error = 0.0019305359781941
+# current error = 0.0018994863521134
+# current error = 0.001869749719287
+# current error = 0.0018411060947116
+# current error = 0.0018136492227597
+# current error = 0.0017872199731029
+# current error = 0.0017617369179165
+# current error = 0.0017371850205306
+# current error = 0.0017134847460521
+# current error = 0.0016905736380294
+# current error = 0.0016684144575662
+# current error = 0.0016470207121527
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.94
+
+ Logistic Done, Press Enter
+
+
+
+ Taking Hidden Units Value as 10
+# StochasticGradient: training
+# current error = 3.3071492750239
+# current error = 2.7198275890858
+# current error = 2.3325015311246
+# current error = 2.1037710279839
+# current error = 1.8902222146178
+# current error = 1.7465718897574
+# current error = 1.6612050480101
+# current error = 1.5008947543806
+# current error = 1.3450984962405
+# current error = 1.2200247338529
+# current error = 1.1028916635356
+# current error = 1.0841368126528
+# current error = 0.99588464711377
+# current error = 0.94447248589024
+# current error = 0.94701524111508
+# current error = 0.98079512546203
+# current error = 0.97439830767166
+# current error = 0.92100814627289
+# current error = 0.90043890501455
+# current error = 0.94407595740501
+# current error = 0.9654375717012
+# current error = 0.95208843214745
+# current error = 0.99194549267354
+# current error = 0.94224168356386
+# current error = 0.89939399350429
+# current error = 0.79403901888503
+# current error = 0.70537380454125
+# current error = 0.63545989857511
+# current error = 0.62105277669056
+# current error = 0.60057818393125
+# current error = 0.57937720403317
+# current error = 0.59158901141023
+# current error = 0.56586057757906
+# current error = 0.61926994172466
+# current error = 0.55980890500529
+# current error = 0.53942173673017
+# current error = 0.52325352944825
+# current error = 0.5187514035222
+# current error = 0.51510617199799
+# current error = 0.50653006266282
+# current error = 0.49653621182534
+# current error = 0.48585406676416
+# current error = 0.48492065206088
+# current error = 0.48525700735127
+# current error = 0.48276833499589
+# current error = 0.51887353300774
+# current error = 0.53082984958658
+# current error = 0.55751887122241
+# current error = 0.57882037291839
+# current error = 0.54612413251099
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.94
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.2988138900117
+# current error = 3.2973281200045
+# current error = 3.2979364513039
+# current error = 3.2981242653057
+# current error = 3.2981694402365
+# current error = 3.2981798961674
+# current error = 3.2981823121433
+# current error = 3.2981828736194
+# current error = 3.298183005022
+# current error = 3.2981830359824
+# current error = 3.2981830433221
+# current error = 3.2981830450717
+# current error = 3.2981830454908
+# current error = 3.2981830455916
+# current error = 3.2981830456159
+# current error = 3.2981830456218
+# current error = 3.2981830456232
+# current error = 3.2981830456236
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# current error = 3.2981830456237
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 20
+# StochasticGradient: training
+# current error = 3.281049435669
+# current error = 2.5344714922693
+# current error = 1.951626233867
+# current error = 1.3880611206196
+# current error = 1.0541158815368
+# current error = 0.78053938065493
+# current error = 0.54411784506584
+# current error = 0.29876993387797
+# current error = 0.16089546786261
+# current error = 0.11283537418138
+# current error = 0.087242800134192
+# current error = 0.069689561496664
+# current error = 0.055232339126505
+# current error = 0.047589390243684
+# current error = 0.041918967901445
+# current error = 0.037639894271016
+# current error = 0.034224752230263
+# current error = 0.031289515293994
+# current error = 0.028792946936382
+# current error = 0.02671969286889
+# current error = 0.024929946808587
+# current error = 0.023416126140025
+# current error = 0.022093840465944
+# current error = 0.020927021420127
+# current error = 0.019881738148577
+# current error = 0.018940646583951
+# current error = 0.018082715155872
+# current error = 0.017291674829588
+# current error = 0.016550190504416
+# current error = 0.01586228373467
+# current error = 0.015241468807625
+# current error = 0.014671171451523
+# current error = 0.01414150337428
+# current error = 0.013647166374013
+# current error = 0.013183461711722
+# current error = 0.012748366465986
+# current error = 0.012340739433927
+# current error = 0.011958165491649
+# current error = 0.011597156077564
+# current error = 0.011255208163468
+# current error = 0.010930327215423
+# current error = 0.010621915054619
+# current error = 0.010330262083982
+# current error = 0.010055681144906
+# current error = 0.0097972919220484
+# current error = 0.0095535245817448
+# current error = 0.0093224999531466
+# current error = 0.0091028094992974
+# current error = 0.0088934237643534
+# current error = 0.0086933470444846
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.94
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.3016225421235
+# current error = 3.3001889735578
+# current error = 3.3003228623603
+# current error = 3.3003756647401
+# current error = 3.3003889033619
+# current error = 3.3003920264812
+# current error = 3.3003927575098
+# current error = 3.300392928981
+# current error = 3.3003929693556
+# current error = 3.300392978899
+# current error = 3.3003929811628
+# current error = 3.3003929817015
+# current error = 3.30039298183
+# current error = 3.3003929818608
+# current error = 3.3003929818682
+# current error = 3.3003929818699
+# current error = 3.3003929818704
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# current error = 3.3003929818705
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 40
+# StochasticGradient: training
+# current error = 3.4161063499517
+# current error = 2.5874521623491
+# current error = 1.5742209410917
+# current error = 0.72947613252246
+# current error = 0.17490709608475
+# current error = 0.034706246250118
+# current error = 0.021214100956616
+# current error = 0.016989168193732
+# current error = 0.01435146801185
+# current error = 0.012488112735501
+# current error = 0.011079826028618
+# current error = 0.0099723589936648
+# current error = 0.0090764543982807
+# current error = 0.0083350725381162
+# current error = 0.0077102224870846
+# current error = 0.0071761076379808
+# current error = 0.0067138997068062
+# current error = 0.0063097176218284
+# current error = 0.0059531932503938
+# current error = 0.0056361416663526
+# current error = 0.0053522466506977
+# current error = 0.0050963563539682
+# current error = 0.0048645132349664
+# current error = 0.0046533326566489
+# current error = 0.0044601861863113
+# current error = 0.0042827311466065
+# current error = 0.0041190512050795
+# current error = 0.0039675519083114
+# current error = 0.0038269993586226
+# current error = 0.0036961295176992
+# current error = 0.0035739750345364
+# current error = 0.0034597336171019
+# current error = 0.0033527116742796
+# current error = 0.0032522020305934
+# current error = 0.0031576699085873
+# current error = 0.003068513541396
+# current error = 0.0029844194308323
+# current error = 0.002904830164584
+# current error = 0.0028294516527154
+# current error = 0.0027578659976966
+# current error = 0.0026899293030401
+# current error = 0.0026253163193614
+# current error = 0.0025637458163892
+# current error = 0.0025050152944635
+# current error = 0.0024489420732366
+# current error = 0.002395340271483
+# current error = 0.0023440341446579
+# current error = 0.0022949032968995
+# current error = 0.0022477764543828
+# current error = 0.00220250514787
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.92
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.29593839289
+# current error = 3.2974357908205
+# current error = 3.2983330041272
+# current error = 3.2985627206551
+# current error = 3.2986167821002
+# current error = 3.2986293737322
+# current error = 3.2986323160401
+# current error = 3.298633007502
+# current error = 3.2986331709373
+# current error = 3.2986332097714
+# current error = 3.2986332190422
+# current error = 3.2986332212646
+# current error = 3.2986332217993
+# current error = 3.2986332219283
+# current error = 3.2986332219595
+# current error = 3.2986332219671
+# current error = 3.2986332219689
+# current error = 3.2986332219694
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# current error = 3.2986332219695
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.96
+
+ RBF network done. Press enter
+
+
+
+ Taking Hidden Units Value as 80
+# StochasticGradient: training
+# current error = 3.7650315253466
+# current error = 3.1177837451981
+# current error = 2.3118793794361
+# current error = 0.80171227096494
+# current error = 0.12448642096407
+# current error = 0.01009632789282
+# current error = 0.0047851330392378
+# current error = 0.0039093315060739
+# current error = 0.0033687973474387
+# current error = 0.0029872756633042
+# current error = 0.0026986139467639
+# current error = 0.0024705082193244
+# current error = 0.002284329748407
+# current error = 0.0021287966707567
+# current error = 0.0019964496090161
+# current error = 0.0018821097785412
+# current error = 0.0017821083068187
+# current error = 0.0016937824076645
+# current error = 0.0016150249218118
+# current error = 0.0015442743336833
+# current error = 0.0014803440152477
+# current error = 0.0014222622811672
+# current error = 0.0013690993867834
+# current error = 0.0013203023960691
+# current error = 0.0012752681458579
+# current error = 0.0012336361018301
+# current error = 0.0011949406197396
+# current error = 0.0011589126023106
+# current error = 0.0011252411651574
+# current error = 0.0010936956220194
+# current error = 0.0010640761872798
+# current error = 0.0010362094734546
+# current error = 0.0010098703675268
+# current error = 0.00098499829516968
+# current error = 0.00096146377705234
+# current error = 0.00093914361333679
+# current error = 0.00091794856232849
+# current error = 0.00089783946157223
+# current error = 0.00087862026296627
+# current error = 0.00086029885083317
+# current error = 0.0008428193769324
+# current error = 0.00082607622444255
+# current error = 0.00081001951789731
+# current error = 0.00079469147427445
+# current error = 0.00077995848273455
+# current error = 0.0007658162397152
+# current error = 0.00075222867836692
+# current error = 0.00073913567078684
+# current error = 0.00072658255309852
+# current error = 0.00071442374246663
+# StochasticGradient: you have reached the maximum number of iterations
+Error calculated 0.94
+
+ 2 Layer network done, press enter
+
+
+# StochasticGradient: training
+# current error = 3.297713767031
+# current error = 3.2977628380113
+# current error = 3.2980906381645
+# current error = 3.2981743574447
+# current error = 3.2981926417553
+# current error = 3.2981965290176
+# current error = 3.2981973545477
+# current error = 3.2981975307917
+# current error = 3.2981975686922
+# current error = 3.2981975769089
+# current error = 3.2981975787056
+# current error = 3.2981975791021
+# current error = 3.2981975791903
+# current error = 3.2981975792102
+# current error = 3.2981975792147
+# current error = 3.2981975792157
+# current error = 3.2981975792159
+# current error = 3.298197579216
+# current error = 3.298197579216
+# current error = 3.298197579216
+# current error = 3.298197579216
+# current error = 3.298197579216
+# current error = 3.298197579216
+# current error = 3.298197579216
+# current error = 3.298197579216
+# current error = 3.298197579216

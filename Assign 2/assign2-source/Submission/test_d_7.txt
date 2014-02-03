@@ -1,0 +1,9 @@
+
+For D=1
+	C=0.25
+         Avg number of marginal support vectors 163.8
+         Avg number of support vectors 165.4
+         Avg Cross Valid Error 0.257
+         Avg Training Error    0.22705555555556
+         Avg Testing Error     0.2472
+

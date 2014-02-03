@@ -1,0 +1,18 @@
+Convergence achieved in K Means...generating new image...
+Reporting for K Means, for number of clusters = 
+8
+mean square error for these clusters is
+0.17651982035319
+
+
+K MEANS OVER. TIME FOR GAUSSIANS.
+Max -ve likelihood function value before Gaussian starts, using K Means values
+448205.46568225
+Max -ve likelihood function value after Gaussian converges
+-1063814.9163321
+
+Convergence achieved for Gaussians, reconstructing image
+Reporting for Gaussians, for number of clusters = 
+8
+mean square error for these clusters is
+0.37256373314109

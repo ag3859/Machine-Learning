@@ -1,0 +1,14 @@
+Convergence achieved in K Means...generating new image...
+Reporting for K Means, for number of clusters = 
+8
+mean square error for these clusters is
+0.57990195957173
+
+
+
+ Calculating Number of Bits
+
+21072.526090432
+K MEANS OVER. TIME FOR GAUSSIANS.
+Max -ve likelihood function value before Gaussian starts, using K Means values
+449415.81589481

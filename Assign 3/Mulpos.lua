@@ -1,0 +1,44 @@
+require "nn"
+
+local Mulpos, parent = torch.class('nn.Mulpos', 'nn.Module')
+
+function Mulpos:__init(inputSize)
+   parent.__init(self)
+  
+   self.weight = torch.Tensor(1)
+   self.gradWeight = torch.Tensor(1)
+   
+   self.gradInput:resize(inputSize)
+   self.output:resize(inputSize) 
+
+   self:reset()
+end
+
+ 
+function Mulpos:reset(stdv)
+   if stdv then
+      stdv = stdv * math.sqrt(3)
+   else
+      stdv = 1./math.sqrt(self.weight:size(1))
+   end
+
+   self.weight[1] = torch.uniform(-stdv, stdv)
+end
+
+function Mulpos:updateOutput(input)
+   self.output:copy(input);
+   self.output:mul(torch.exp(self.weight[1]))
+   return self.output 
+end
+
+function Mulpos:updateGradInput(input, gradOutput) 
+   self.gradInput:zero()
+   self.gradInput:add(torch.exp(self.weight[1]), gradOutput)
+   return self.gradInput
+end
+
+function Mulpos:accGradParameters(input, gradOutput, scale) 
+   scale = scale or 1
+   local newwt = self.output:clone()
+   self.gradWeight[1] = self.gradWeight[1] + scale*newwt:dot(gradOutput)
+end

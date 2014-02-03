@@ -1,0 +1,21 @@
+K means runs 5 times, for K={2,4,64,256,8}
+Please note the order here. 8 is run at the end, as the values generated is taken and used in the Mog Algorithm.
+
+By default, the full code runs on the "buildings.png" file and entire output is stored also in "output buildings.txt" file.
+
+To run, all required to do is, torch main.lua
+
+No further intervention will be reuqired till the end. It is however suggested that everytime a new image is re-constructed (which will happen for K=2,4,64,256,8 and for gaussian k=8), please view the image and close the same before the screen is flooded with all images and it becomes confusing.
+
+
+
+All data was written in .txt files, and was then compiled into an excel sheet attached. These includes (for all 4 images)
+
+->error for k means for k=2,4,8,64,256
+->error for gaussian for 8 gaussians
+->negative log likelihood value, calculated after k means and after gaussaian runs, for k/number of gaussians=8
+->Number of bits	(Question3.1)
+
+
+
+Question 3.2
